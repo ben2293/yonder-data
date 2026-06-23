@@ -1,0 +1,852 @@
+{
+  "cities": [
+    {
+      "name": "Bangalore",
+      "aliases": ["Bengaluru"],
+      "updated": "2026-06-05",
+      "sections": [
+        {
+          "title": "Cafés to camp at",
+          "places": [
+            { "name": "Maverick & Farmer", "subtitle": "Indiranagar", "category": "Cafe", "tagline": "Specialty espresso bar, brewers' favourite", "tags": ["Great coffee", "Best to work"], "lat": 12.9720, "lon": 77.6398 },
+            { "name": "Nerlu Cafe", "subtitle": "Cunningham Road", "category": "Cafe", "tagline": "Indian single-origin focus, rotating pour-over discovery menus", "tags": ["Great coffee", "Aesthetic"], "lat": 12.9871, "lon": 77.5889 },
+            { "name": "The Kind Roastery & Brew Room", "subtitle": "Indiranagar", "category": "Cafe", "tagline": "Roastery vibes, coffee flights, and aesthetic brews", "tags": ["Great coffee", "Aesthetic"], "lat": 12.9748, "lon": 77.6387 },
+            { "name": "Still Coffee", "subtitle": "19th Main, HAL 2nd Stage, Kodihalli", "category": "Cafe", "tagline": "Specialty coffee in a quiet Kodihalli pocket", "tags": ["Great coffee", "Hidden gem"], "lat": 12.9752, "lon": 77.6448 },
+            { "name": "Anama Coffee", "subtitle": "5th Main, 1st Stage, Indiranagar", "category": "Cafe", "tagline": "Specialty coffee, Indiranagar's quieter gem", "tags": ["Great coffee", "Aesthetic"], "lat": 12.9778, "lon": 77.6375 },
+            { "name": "Ainmane Cafe & Specialty Coffee", "subtitle": "9th Main, HAL 2nd Stage, Indiranagar", "category": "Cafe", "tagline": "Rare civet coffee and monsooned Malabar. Go for the unusual.", "tags": ["Great coffee"], "lat": 12.9691, "lon": 77.6393 },
+            { "name": "Kinya Coffee", "subtitle": "Dollars Colony, JP Nagar 4th Phase", "category": "Cafe", "tagline": "Frequent local favourite for quality brews in a relaxed setting", "tags": ["Great coffee", "Good staff"], "lat": 12.9049, "lon": 77.5863 },
+            { "name": "Benki Coffee", "subtitle": "Jayanagar", "category": "Cafe", "tagline": "Hidden South Bengaluru gem with strong community love", "tags": ["Great coffee", "Hidden gem"], "lat": 12.9253, "lon": 77.5935 },
+            { "name": "Subko Ajji House", "subtitle": "Shanti Nagar", "category": "Cafe", "tagline": "Red oxide floors, old-Bengaluru nostalgia, and excellent brews", "tags": ["Aesthetic", "Great coffee"], "lat": 12.9628, "lon": 77.5884 },
+            { "name": "Beanlore Coffee Roasters", "subtitle": "HSR Layout", "category": "Cafe", "tagline": "Studio Camarada-designed gem. Artisanal menu, standout interiors.", "tags": ["Aesthetic", "Great coffee"], "lat": 12.9116, "lon": 77.6389 },
+            { "name": "Zenforest Coffee Roasters", "subtitle": "Sahakarnagar", "category": "Cafe", "tagline": "Small-batch roastery with forest-themed cozy vibes", "tags": ["Aesthetic", "Hidden gem"], "lat": 13.0582, "lon": 77.5797 },
+            { "name": "Nombre", "subtitle": "JP Nagar / Jayanagar border", "category": "Cafe", "tagline": "Specialty coffee in South Bengaluru", "tags": ["Great coffee"], "lat": 12.9260, "lon": 77.5912 }
+          ]
+        },
+        {
+          "title": "Brunch worth the wait",
+          "places": [
+            { "name": "Glen's Bakehouse", "subtitle": "Indiranagar", "category": "Bakery", "tagline": "The cinnamon roll. Go early.", "tags": ["Aesthetic", "Great coffee"], "lat": 12.9745, "lon": 77.6419 },
+            { "name": "Toit Brewpub", "subtitle": "100ft Road, Indiranagar", "category": "Brewery", "tagline": "Pizza + house ales. Always packed.", "tags": ["Great vibes"], "lat": 12.9712, "lon": 77.6411 },
+            { "name": "Olive Beach", "subtitle": "Wood Street", "category": "Restaurant", "tagline": "Mediterranean, weekend brunch institution", "tags": ["Aesthetic", "Good staff"], "lat": 12.9756, "lon": 77.6010 },
+            { "name": "The Fatty Bao", "subtitle": "Indiranagar", "category": "Restaurant", "tagline": "Asian small plates, weekend dim sum", "tags": ["Good staff"], "lat": 12.9710, "lon": 77.6402 },
+            { "name": "Smoke House Deli", "subtitle": "Indiranagar", "category": "Restaurant", "tagline": "Big-plate brunch, gluten-free options", "tags": ["Best to work"], "lat": 12.9712, "lon": 77.6388 },
+            { "name": "Cafe Noir", "subtitle": "UB City", "category": "Restaurant", "tagline": "Sit-down brunch, mall views", "tags": ["Aesthetic"], "lat": 12.9722, "lon": 77.5963 },
+            { "name": "Sly Granny", "subtitle": "12th Main, HAL 2nd Stage, Indiranagar", "category": "Restaurant", "tagline": "Bottomless brunch, garden seating", "tags": ["Great vibes", "Good staff"], "lat": 12.9718, "lon": 77.6415 }
+          ]
+        },
+        {
+          "title": "Parks & green pockets",
+          "places": [
+            { "name": "Cubbon Park", "subtitle": "Central Bangalore", "category": "Park", "tagline": "Sunday cycling, bamboo grove walks", "tags": ["Scenic"], "lat": 12.9763, "lon": 77.5929 },
+            { "name": "Lalbagh Botanical Garden", "subtitle": "Mavalli", "category": "Park", "tagline": "Glasshouse, sunrise joggers' paradise", "tags": ["Scenic", "Aesthetic"], "lat": 12.9507, "lon": 77.5848 },
+            { "name": "Sankey Tank", "subtitle": "Malleshwaram", "category": "Park", "tagline": "Lake walk, sunset over the water", "tags": ["Scenic"], "lat": 13.0073, "lon": 77.5736 },
+            { "name": "Bugle Rock Park", "subtitle": "Basavanagudi", "category": "Park", "tagline": "Massive boulder, quiet evenings", "tags": ["Hidden gem"], "lat": 12.9416, "lon": 77.5731 },
+            { "name": "Bannerghatta National Park", "subtitle": "South Bangalore", "category": "Park", "tagline": "Safari zone, butterfly park", "tags": ["Scenic"], "lat": 12.7997, "lon": 77.5777 },
+            { "name": "Indira Gandhi Musical Fountain", "subtitle": "Sankey Road", "category": "Park", "tagline": "Sunset musical fountain show", "tags": ["Hidden gem"], "lat": 13.0008, "lon": 77.5743 }
+          ]
+        },
+        {
+          "title": "Late-night spots",
+          "places": [
+            { "name": "Empire Restaurant", "subtitle": "34 Church Street", "category": "Restaurant", "tagline": "Open till 3am, Mughlai classics", "tags": ["Good staff"], "lat": 12.9743, "lon": 77.6092 },
+            { "name": "Koshy's", "subtitle": "St. Marks Road", "category": "Cafe", "tagline": "Old guard since 1940, breakfast at midnight", "tags": ["Aesthetic", "Great coffee"], "lat": 12.9719, "lon": 77.6004 },
+            { "name": "Shivaji Military Hotel", "subtitle": "Jayanagar", "category": "Restaurant", "tagline": "Donne biryani done right", "tags": ["Hidden gem"], "lat": 12.9223, "lon": 77.5910 },
+            { "name": "CTR (Central Tiffin Room)", "subtitle": "Malleshwaram", "category": "Restaurant", "tagline": "Benne masala dosa worth queueing", "tags": ["Hidden gem", "Good staff"], "lat": 13.0036, "lon": 77.5719 },
+            { "name": "Brahmins' Coffee Bar", "subtitle": "Basavanagudi", "category": "Cafe", "tagline": "Idli + chutney, queue starts at 7am", "tags": ["Great coffee"], "lat": 12.9410, "lon": 77.5723 },
+            { "name": "Vidyarthi Bhavan", "subtitle": "Gandhi Bazaar", "category": "Restaurant", "tagline": "Crispy benne dosa institution", "tags": ["Hidden gem"], "lat": 12.9426, "lon": 77.5722 }
+          ]
+        },
+        {
+          "title": "Bars & breweries",
+          "places": [
+            { "name": "Arbor Brewing Company", "subtitle": "Magrath Road", "category": "Brewery", "tagline": "Solid house pours, sports nights", "tags": ["Great vibes"], "lat": 12.9716, "lon": 77.6181 },
+            { "name": "The Permit Room", "subtitle": "MG Road / Church Street junction", "category": "Bar", "tagline": "South Indian small plates + cocktails", "tags": ["Good staff", "Aesthetic"], "lat": 12.9756, "lon": 77.6076 },
+            { "name": "Watson's", "subtitle": "100 Feet Road, Indiranagar", "category": "Bar", "tagline": "Pub crawl regular, mid-week chill", "tags": ["Great vibes"], "lat": 12.9728, "lon": 77.6430 },
+            { "name": "ZLB 23", "subtitle": "Madhuloka, Vittal Mallya Road", "category": "Bar", "tagline": "Hidden speakeasy in a bookstore", "tags": ["Aesthetic", "Hidden gem"], "lat": 12.9711, "lon": 77.5962 },
+            { "name": "Soka", "subtitle": "1st Main Road, Indiranagar 2nd Stage", "category": "Bar", "tagline": "Cocktail bar, intimate seating", "tags": ["Aesthetic", "Good staff"], "lat": 12.9735, "lon": 77.6358 }
+          ]
+        },
+        {
+          "title": "Bookstores & quiet shops",
+          "places": [
+            { "name": "Blossom Book House", "subtitle": "84/6 Church Street", "category": "Books", "tagline": "Three floors of new + used, easy to lose an afternoon", "tags": ["Hidden gem"], "lat": 12.9758, "lon": 77.6084 },
+            { "name": "Champaca Bookstore", "subtitle": "Vasanth Nagar", "category": "Books", "tagline": "Indie + small press, lovely garden café", "tags": ["Aesthetic", "Great coffee"], "lat": 12.9908, "lon": 77.5908 },
+            { "name": "Higginbothams", "subtitle": "MG Road", "category": "Books", "tagline": "South India's oldest bookstore, est 1844", "tags": ["Hidden gem"], "lat": 12.9756, "lon": 77.6093 },
+            { "name": "Bookworm", "subtitle": "Church Street", "category": "Books", "tagline": "Secondhand finds, weekend browse", "tags": ["Hidden gem"], "lat": 12.9748, "lon": 77.6081 },
+            { "name": "Atta Galatta", "subtitle": "Koramangala 7th Block", "category": "Books", "tagline": "Indian-language bookstore + events", "tags": ["Aesthetic"], "lat": 12.9340, "lon": 77.6189 }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "name": "Mumbai",
+      "aliases": ["Bombay"],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Filter coffee & chai stops",
+          "places": [
+            { "name": "Prithvi Café", "subtitle": "Juhu", "category": "Cafe", "tagline": "Theatre courtyard café, bhutta and cutting chai", "tags": ["Aesthetic", "Great coffee"], "lat": 19.1054, "lon": 72.8286 },
+            { "name": "Kala Ghoda Café", "subtitle": "Kala Ghoda, Fort", "category": "Cafe", "tagline": "All-day café in the art district, strong espresso", "tags": ["Great coffee", "Aesthetic"], "lat": 18.9285, "lon": 72.8318 },
+            { "name": "Café Mondegar", "subtitle": "Colaba", "category": "Cafe", "tagline": "Mario Miranda murals, cold coffee institution since 1932", "tags": ["Aesthetic", "Hidden gem"], "lat": 18.9215, "lon": 72.8347 },
+            { "name": "The Pantry", "subtitle": "Kala Ghoda", "category": "Cafe", "tagline": "Farm-to-table brunch, one of the best in South Bombay", "tags": ["Great coffee", "Good staff"], "lat": 18.9290, "lon": 72.8322 },
+            { "name": "Sequel", "subtitle": "Bandra West", "category": "Cafe", "tagline": "Healthy all-day café, consistently great coffee", "tags": ["Great coffee", "Best to work"], "lat": 19.0614, "lon": 72.8360 }
+          ]
+        },
+        {
+          "title": "Street food you can't skip",
+          "places": [
+            { "name": "Elco Pani Puri", "subtitle": "Bandra West", "category": "Street Food", "tagline": "The benchmark pani puri in the city", "tags": ["Hidden gem"], "lat": 19.0614, "lon": 72.8360 },
+            { "name": "Sardar Pav Bhaji", "subtitle": "Tardeo", "category": "Street Food", "tagline": "Butter-heavy, legendary. Queue is part of it.", "tags": ["Hidden gem"], "lat": 18.9647, "lon": 72.8217 },
+            { "name": "Bade Miyan", "subtitle": "Colaba", "category": "Street Food", "tagline": "Seekh kebabs off the cart, open till late", "tags": ["Hidden gem"], "lat": 18.9247, "lon": 72.8340 },
+            { "name": "Britannia & Co", "subtitle": "Ballard Estate", "category": "Restaurant", "tagline": "Dhansak and berry pulao, Parsi institution since 1923", "tags": ["Hidden gem", "Good staff"], "lat": 18.9340, "lon": 72.8418 },
+            { "name": "Café Madras", "subtitle": "Matunga", "category": "Restaurant", "tagline": "Idli-vada perfection, Matunga's best-kept secret", "tags": ["Hidden gem"], "lat": 19.0367, "lon": 72.8630 },
+            { "name": "Khao Gully", "subtitle": "CST area", "category": "Street Food", "tagline": "Office-hour food lane, impossible to leave empty", "tags": ["Hidden gem"], "lat": 18.9322, "lon": 72.8352 }
+          ]
+        },
+        {
+          "title": "Bars & sea-facing nights",
+          "places": [
+            { "name": "Aer", "subtitle": "Four Seasons, Worli", "category": "Bar", "tagline": "34th floor, city lights and sea breeze", "tags": ["Aesthetic", "Great vibes"], "lat": 19.0176, "lon": 72.8148 },
+            { "name": "Dome", "subtitle": "InterContinental, Churchgate", "category": "Bar", "tagline": "Open-air rooftop overlooking Marine Drive", "tags": ["Aesthetic"], "lat": 18.9378, "lon": 72.8270 },
+            { "name": "Woodside Inn", "subtitle": "Colaba", "category": "Bar", "tagline": "Reliable pub, strong pours, no attitude", "tags": ["Great vibes"], "lat": 18.9215, "lon": 72.8340 },
+            { "name": "The Bar Stock Exchange", "subtitle": "Andheri", "category": "Bar", "tagline": "Prices fluctuate like stocks — time your round right", "tags": ["Great vibes"], "lat": 19.1194, "lon": 72.8673 },
+            { "name": "Leopold Cafe", "subtitle": "Colaba", "category": "Bar", "tagline": "Cold beer, history, and a seat by the window", "tags": ["Aesthetic", "Great vibes"], "lat": 18.9218, "lon": 72.8322 }
+          ]
+        },
+        {
+          "title": "Waterfronts & breathing room",
+          "places": [
+            { "name": "Marine Drive", "subtitle": "Churchgate", "category": "Park", "tagline": "Queen's Necklace at dusk. No explanation needed.", "tags": ["Scenic"], "lat": 18.9440, "lon": 72.8237 },
+            { "name": "Carter Road Promenade", "subtitle": "Bandra West", "category": "Park", "tagline": "Sunset joggers, cutting chai, sea air", "tags": ["Scenic"], "lat": 19.0596, "lon": 72.8295 },
+            { "name": "Bandstand Promenade", "subtitle": "Bandra West", "category": "Park", "tagline": "Sea walk, SRK's bungalow in the distance", "tags": ["Scenic"], "lat": 19.0485, "lon": 72.8244 },
+            { "name": "Juhu Beach", "subtitle": "Juhu", "category": "Park", "tagline": "Bhel puri by the sea, chaotic and perfect", "tags": ["Scenic"], "lat": 19.0978, "lon": 72.8265 },
+            { "name": "Sanjay Gandhi National Park", "subtitle": "Borivali", "category": "Park", "tagline": "Inside a metro city, feels like another world", "tags": ["Scenic", "Hidden gem"], "lat": 19.2145, "lon": 72.9106 }
+          ]
+        },
+        {
+          "title": "Bookstores & art pockets",
+          "places": [
+            { "name": "Kitab Khana", "subtitle": "Fort", "category": "Books", "tagline": "Beautiful independent bookstore, great events", "tags": ["Aesthetic", "Hidden gem"], "lat": 18.9332, "lon": 72.8352 },
+            { "name": "Granth — The Bookstore", "subtitle": "Khar West", "category": "Books", "tagline": "Curated indie titles, neighbourhood feel", "tags": ["Hidden gem"], "lat": 19.0706, "lon": 72.8370 },
+            { "name": "Dr. Bhau Daji Lad Museum", "subtitle": "Byculla", "category": "Museum", "tagline": "Mumbai's oldest museum, lovingly restored", "tags": ["Aesthetic", "Hidden gem"], "lat": 18.9736, "lon": 72.8401 },
+            { "name": "Chemould Prescott Road", "subtitle": "Fort", "category": "Museum", "tagline": "Premier contemporary art gallery, free entry", "tags": ["Aesthetic"], "lat": 18.9290, "lon": 72.8322 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delhi",
+      "aliases": ["New Delhi"],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Coffee & quiet corners",
+          "places": [
+            { "name": "Blue Tokai Coffee Roasters", "subtitle": "Lodhi Colony", "category": "Cafe", "tagline": "India's best roastery, Lodhi branch has outdoor seating", "tags": ["Great coffee", "Best to work"], "lat": 28.5902, "lon": 77.2197 },
+            { "name": "Perch Wine & Coffee Bar", "subtitle": "Khan Market", "category": "Cafe", "tagline": "Three floors, natural light, good wine by the glass", "tags": ["Aesthetic", "Great coffee"], "lat": 28.5999, "lon": 77.2268 },
+            { "name": "Café Lota", "subtitle": "Pragati Maidan", "category": "Cafe", "tagline": "Crafts Museum café, Indian pantry menu done right", "tags": ["Aesthetic", "Good staff"], "lat": 28.6192, "lon": 77.2378 },
+            { "name": "The Piano Man Jazz Club", "subtitle": "Safdarjung", "category": "Cafe", "tagline": "Live jazz most evenings, good coffee in the day", "tags": ["Great vibes", "Aesthetic"], "lat": 28.5680, "lon": 77.2092 },
+            { "name": "Ivy & Bean", "subtitle": "Hauz Khas", "category": "Cafe", "tagline": "Neighbourhood café, reliable single-origin", "tags": ["Great coffee", "Best to work"], "lat": 28.5535, "lon": 77.2088 }
+          ]
+        },
+        {
+          "title": "Old Delhi, new hunger",
+          "places": [
+            { "name": "Karim's", "subtitle": "Gali Kababian, Jama Masjid", "category": "Restaurant", "tagline": "Mutton burra, seekh kebab. Unchanged since 1913.", "tags": ["Hidden gem"], "lat": 28.6507, "lon": 72.2338 },
+            { "name": "Paranthe Wali Gali", "subtitle": "Chandni Chowk", "category": "Street Food", "tagline": "Narrow lane, 20+ paranthas, eat standing", "tags": ["Hidden gem"], "lat": 28.6530, "lon": 77.2295 },
+            { "name": "Natraj Dahi Bhalle", "subtitle": "Chandni Chowk", "category": "Street Food", "tagline": "The dahi bhalla standard everything else is judged by", "tags": ["Hidden gem"], "lat": 28.6507, "lon": 77.2305 },
+            { "name": "Al Jawahar", "subtitle": "Jama Masjid", "category": "Restaurant", "tagline": "Old Delhi Mughlai, stewed and slow-cooked right", "tags": ["Hidden gem", "Good staff"], "lat": 28.6507, "lon": 77.2338 },
+            { "name": "Lakhori", "subtitle": "Hauz Qazi, Old Delhi", "category": "Restaurant", "tagline": "Hidden haveli rooftop, old Delhi views and good food", "tags": ["Aesthetic", "Hidden gem"], "lat": 28.6530, "lon": 77.2312 }
+          ]
+        },
+        {
+          "title": "Bars for the night shift",
+          "places": [
+            { "name": "PCO", "subtitle": "Vasant Vihar", "category": "Bar", "tagline": "Ring a phone booth to enter. Best cocktails in the city.", "tags": ["Aesthetic", "Hidden gem"], "lat": 28.5682, "lon": 77.1527 },
+            { "name": "Hauz Khas Social", "subtitle": "Hauz Khas Village", "category": "Bar", "tagline": "Fort ruins next door, reliable crowd, good bar bites", "tags": ["Great vibes"], "lat": 28.5535, "lon": 77.2088 },
+            { "name": "Raasta", "subtitle": "Hauz Khas", "category": "Bar", "tagline": "Reggae bar, Caribbean food, reliably fun", "tags": ["Great vibes"], "lat": 28.5490, "lon": 77.2075 },
+            { "name": "Saz", "subtitle": "ITC Maurya, Diplomatic Enclave", "category": "Bar", "tagline": "Jazz, cocktails, the city's most refined late night", "tags": ["Aesthetic", "Good staff"], "lat": 28.5978, "lon": 77.1736 }
+          ]
+        },
+        {
+          "title": "Parks & heritage walks",
+          "places": [
+            { "name": "Lodhi Garden", "subtitle": "Lodhi Colony", "category": "Park", "tagline": "Mughal tombs surrounded by gardens, best at dawn", "tags": ["Scenic", "Aesthetic"], "lat": 28.5902, "lon": 77.2197 },
+            { "name": "Humayun's Tomb", "subtitle": "Nizamuddin", "category": "Park", "tagline": "Prototype for the Taj, far less crowded", "tags": ["Scenic", "Aesthetic"], "lat": 28.5933, "lon": 77.2507 },
+            { "name": "Sunder Nursery", "subtitle": "Nizamuddin", "category": "Park", "tagline": "Heritage park with 16th-century monuments and gardens", "tags": ["Scenic", "Hidden gem"], "lat": 28.5896, "lon": 77.2516 },
+            { "name": "Mehrauli Archaeological Park", "subtitle": "Mehrauli", "category": "Park", "tagline": "100+ monuments spread across a quiet park — few know it", "tags": ["Hidden gem", "Scenic"], "lat": 28.5218, "lon": 77.1855 },
+            { "name": "Garden of Five Senses", "subtitle": "Said-ul-Ajaib", "category": "Park", "tagline": "Sculpture garden, good for a slow evening", "tags": ["Aesthetic", "Scenic"], "lat": 28.5079, "lon": 77.1948 }
+          ]
+        },
+        {
+          "title": "Markets worth the crowd",
+          "places": [
+            { "name": "Dilli Haat", "subtitle": "INA", "category": "Market", "tagline": "Rotating craft stalls from every Indian state", "tags": ["Aesthetic"], "lat": 28.5720, "lon": 77.2083 },
+            { "name": "Khan Market", "subtitle": "Khan Market", "category": "Market", "tagline": "Delhi's most expensive real estate, best independent bookshops", "tags": ["Aesthetic"], "lat": 28.5999, "lon": 77.2268 },
+            { "name": "Sarojini Nagar Market", "subtitle": "Sarojini Nagar", "category": "Market", "tagline": "Export surplus fashion. Go early, go patient.", "tags": ["Hidden gem"], "lat": 28.5747, "lon": 77.1871 },
+            { "name": "Lajpat Nagar Central Market", "subtitle": "Lajpat Nagar", "category": "Market", "tagline": "Fabric, street food, and organised chaos", "tags": ["Hidden gem"], "lat": 28.5700, "lon": 77.2434 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chennai",
+      "aliases": ["Madras"],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Filter coffee & morning tiffin",
+          "places": [
+            { "name": "Murugan Idli Shop", "subtitle": "T Nagar", "category": "Restaurant", "tagline": "Soft idli, coconut chutney, no frills perfection", "tags": ["Hidden gem"], "lat": 13.0418, "lon": 80.2341 },
+            { "name": "Ratna Cafe", "subtitle": "Triplicane", "category": "Cafe", "tagline": "Filter coffee and sambar since 1948", "tags": ["Hidden gem"], "lat": 13.0570, "lon": 80.2738 },
+            { "name": "Sangeetha Restaurant", "subtitle": "Vadapalani", "category": "Restaurant", "tagline": "Consistent South Indian tiffin, locals' daily stop", "tags": ["Good staff"], "lat": 13.0508, "lon": 80.2121 },
+            { "name": "Hotel Saravana Bhavan", "subtitle": "Anna Nagar", "category": "Restaurant", "tagline": "The Chennai institution. Rava kesari and set dosa.", "tags": ["Good staff"], "lat": 13.0850, "lon": 80.2101 },
+            { "name": "Karpagambal Mess", "subtitle": "Mylapore", "category": "Restaurant", "tagline": "Banana leaf meals, old Madras energy", "tags": ["Hidden gem"], "lat": 13.0333, "lon": 80.2690 }
+          ]
+        },
+        {
+          "title": "Cafés & all-day spots",
+          "places": [
+            { "name": "Amethyst", "subtitle": "Royapettah", "category": "Cafe", "tagline": "Garden café in a heritage bungalow, unhurried afternoons", "tags": ["Aesthetic", "Great coffee"], "lat": 13.0569, "lon": 80.2661 },
+            { "name": "Chamiers Café", "subtitle": "Nandanam", "category": "Cafe", "tagline": "Quiet, leafy, the kind of place you stay for hours", "tags": ["Aesthetic", "Best to work"], "lat": 13.0239, "lon": 80.2521 },
+            { "name": "The Brew Room", "subtitle": "Nungambakkam", "category": "Cafe", "tagline": "Specialty coffee done seriously, good pour-overs", "tags": ["Great coffee"], "lat": 13.0569, "lon": 80.2425 },
+            { "name": "Ciclo Café", "subtitle": "Velachery", "category": "Cafe", "tagline": "Cycling-themed café, cheerful crowd, strong espresso", "tags": ["Great coffee", "Great vibes"], "lat": 12.9810, "lon": 80.2209 }
+          ]
+        },
+        {
+          "title": "Seafood & South Indian classics",
+          "places": [
+            { "name": "Ponnusamy Hotel", "subtitle": "Egmore", "category": "Restaurant", "tagline": "Chettinad chicken fry, unmissable if you eat meat", "tags": ["Hidden gem"], "lat": 13.0793, "lon": 80.2595 },
+            { "name": "Anjappar", "subtitle": "Anna Nagar", "category": "Restaurant", "tagline": "Chettinad flavours, signature mutton chukka", "tags": ["Good staff"], "lat": 13.0850, "lon": 80.2101 },
+            { "name": "Dakshin", "subtitle": "ITC Grand Chola, Guindy", "category": "Restaurant", "tagline": "The finest South Indian restaurant in the city", "tags": ["Good staff", "Aesthetic"], "lat": 13.0091, "lon": 80.2103 },
+            { "name": "Savera Hotel Rooftop", "subtitle": "R A Puram", "category": "Restaurant", "tagline": "Seafood by the poolside, Chennai old money vibes", "tags": ["Aesthetic"], "lat": 13.0239, "lon": 80.2521 }
+          ]
+        },
+        {
+          "title": "Beaches & temple walks",
+          "places": [
+            { "name": "Marina Beach", "subtitle": "Marina", "category": "Park", "tagline": "World's second longest beach. Sunrise or bust.", "tags": ["Scenic"], "lat": 13.0500, "lon": 80.2824 },
+            { "name": "Elliot's Beach", "subtitle": "Besant Nagar", "category": "Park", "tagline": "Quieter, cleaner, with Cream Centre next door", "tags": ["Scenic", "Hidden gem"], "lat": 12.9990, "lon": 80.2707 },
+            { "name": "Kapaleeshwarar Temple", "subtitle": "Mylapore", "category": "Temple", "tagline": "Dravidian gopuram, flower market at the entrance", "tags": ["Aesthetic", "Scenic"], "lat": 13.0333, "lon": 80.2690 },
+            { "name": "San Thome Basilica", "subtitle": "San Thome", "category": "Temple", "tagline": "Gothic church on the sea, quiet and beautiful", "tags": ["Aesthetic", "Scenic"], "lat": 13.0322, "lon": 80.2769 },
+            { "name": "Mahabalipuram Shore Temple", "subtitle": "Mahabalipuram", "category": "Temple", "tagline": "7th century Pallava temple on the sea. Day trip.", "tags": ["Scenic", "Aesthetic"], "lat": 12.6172, "lon": 80.1993 }
+          ]
+        },
+        {
+          "title": "Bars & evening spots",
+          "places": [
+            { "name": "10 Downing Street", "subtitle": "Anna Nagar", "category": "Bar", "tagline": "Chennai's most consistent bar, good live acts", "tags": ["Great vibes"], "lat": 13.0850, "lon": 80.2101 },
+            { "name": "Bike & Barrel", "subtitle": "Nungambakkam", "category": "Bar", "tagline": "Craft beer focus, motorcycle aesthetic, good crowd", "tags": ["Great vibes"], "lat": 13.0569, "lon": 80.2425 },
+            { "name": "Leather Bar", "subtitle": "ITC Grand Chola", "category": "Bar", "tagline": "Refined cocktails, Chennai's best hotel bar", "tags": ["Aesthetic", "Good staff"], "lat": 13.0091, "lon": 80.2103 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hyderabad",
+      "aliases": ["Hyderabad"],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Biryani & Hyderabadi staples",
+          "places": [
+            { "name": "Paradise Biryani", "subtitle": "Secunderabad", "category": "Restaurant", "tagline": "The original. Dum biryani that defined a city.", "tags": ["Hidden gem"], "lat": 17.4399, "lon": 78.4997 },
+            { "name": "Bawarchi", "subtitle": "RTC X Roads", "category": "Restaurant", "tagline": "Midnight biryani runs end here", "tags": ["Hidden gem"], "lat": 17.4133, "lon": 78.5000 },
+            { "name": "Shadab Hotel", "subtitle": "High Court Road", "category": "Restaurant", "tagline": "Haleem and biryani in old city, no frills", "tags": ["Hidden gem"], "lat": 17.3616, "lon": 78.4747 },
+            { "name": "Café Bahar", "subtitle": "Basheerbagh", "category": "Restaurant", "tagline": "Iranian café institution, paya and nahari at dawn", "tags": ["Hidden gem"], "lat": 17.4026, "lon": 78.4718 },
+            { "name": "Hotel Nayaab", "subtitle": "Charminar area", "category": "Restaurant", "tagline": "Authentic haleem, especially during Ramzan", "tags": ["Hidden gem"], "lat": 17.3700, "lon": 78.4800 }
+          ]
+        },
+        {
+          "title": "Cafés & specialty coffee",
+          "places": [
+            { "name": "Roastery Coffee House", "subtitle": "Jubilee Hills", "category": "Cafe", "tagline": "Single-origin focus, excellent pour-overs", "tags": ["Great coffee", "Aesthetic"], "lat": 17.4326, "lon": 78.4071 },
+            { "name": "Tpot", "subtitle": "Banjara Hills", "category": "Cafe", "tagline": "Tea and coffee specialist, curated loose-leaf menu", "tags": ["Great coffee", "Aesthetic"], "lat": 17.4239, "lon": 78.4482 },
+            { "name": "Third Wave Coffee", "subtitle": "Jubilee Hills", "category": "Cafe", "tagline": "Reliable specialty chain done right", "tags": ["Great coffee", "Best to work"], "lat": 17.4350, "lon": 78.4100 },
+            { "name": "The Black Pearl", "subtitle": "Madhapur", "category": "Cafe", "tagline": "All-day café near Hitech City, strong flat whites", "tags": ["Great coffee", "Best to work"], "lat": 17.4435, "lon": 78.3912 }
+          ]
+        },
+        {
+          "title": "Old city wanders",
+          "places": [
+            { "name": "Charminar", "subtitle": "Old City", "category": "Monument", "tagline": "Go at dusk. Laad Bazaar starts right at the base.", "tags": ["Scenic", "Aesthetic"], "lat": 17.3616, "lon": 78.4747 },
+            { "name": "Laad Bazaar", "subtitle": "Charminar", "category": "Market", "tagline": "Bangles, pearls, itr. Chaotic and unmissable.", "tags": ["Hidden gem"], "lat": 17.3616, "lon": 78.4738 },
+            { "name": "Chowmahalla Palace", "subtitle": "Old City", "category": "Monument", "tagline": "Nizam's palace, beautifully restored, rarely crowded", "tags": ["Aesthetic", "Hidden gem"], "lat": 17.3590, "lon": 78.4690 },
+            { "name": "Golconda Fort", "subtitle": "Golconda", "category": "Monument", "tagline": "Acoustic trick at the entrance, sunset views at the top", "tags": ["Scenic", "Hidden gem"], "lat": 17.3833, "lon": 78.4011 }
+          ]
+        },
+        {
+          "title": "Parks & open air",
+          "places": [
+            { "name": "Hussain Sagar", "subtitle": "Tank Bund", "category": "Park", "tagline": "Lake walk, Buddha statue, evening crowd", "tags": ["Scenic"], "lat": 17.4239, "lon": 78.4740 },
+            { "name": "KBR National Park", "subtitle": "Jubilee Hills", "category": "Park", "tagline": "Forest inside the city, morning walkers only", "tags": ["Scenic", "Hidden gem"], "lat": 17.4239, "lon": 78.4482 },
+            { "name": "Nehru Zoological Park", "subtitle": "Bahadurpura", "category": "Park", "tagline": "One of India's best zoos, half a day minimum", "tags": ["Scenic"], "lat": 17.3472, "lon": 78.4514 }
+          ]
+        },
+        {
+          "title": "Bars & evening spots",
+          "places": [
+            { "name": "Farzi Café", "subtitle": "Banjara Hills", "category": "Bar", "tagline": "Molecular Indian food and cocktails, theatrical service", "tags": ["Aesthetic", "Good staff"], "lat": 17.4239, "lon": 78.4482 },
+            { "name": "Over The Moon Brew Co", "subtitle": "Jubilee Hills", "category": "Brewery", "tagline": "Hyderabad's best craft brewery, good food too", "tags": ["Great vibes"], "lat": 17.4326, "lon": 78.4071 },
+            { "name": "Kismet", "subtitle": "Park Hyatt, Banjara Hills", "category": "Bar", "tagline": "Poolside bar, city's most reliable cocktail menu", "tags": ["Aesthetic", "Good staff"], "lat": 17.4239, "lon": 78.4482 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pune",
+      "aliases": ["Poona"],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Morning coffee & Irani cafés",
+          "places": [
+            { "name": "Vohuman Café", "subtitle": "Sassoon Road", "category": "Cafe", "tagline": "Irani chai and bun maska since 1946. Queue is mandatory.", "tags": ["Hidden gem"], "lat": 18.5074, "lon": 73.8856 },
+            { "name": "Goodluck Café", "subtitle": "Deccan Gymkhana", "category": "Cafe", "tagline": "Student haunt, keema pav and strong chai", "tags": ["Hidden gem"], "lat": 18.5196, "lon": 73.8381 },
+            { "name": "Café Peter", "subtitle": "Camp", "category": "Cafe", "tagline": "Anglo-Indian menu, old Pune character", "tags": ["Aesthetic", "Hidden gem"], "lat": 18.5176, "lon": 73.8770 },
+            { "name": "Pagdandi Books Chai Café", "subtitle": "Baner", "category": "Cafe", "tagline": "Books + chai + garden. Exactly what it sounds like.", "tags": ["Aesthetic", "Great coffee"], "lat": 18.5592, "lon": 73.7869 },
+            { "name": "The Flour Works", "subtitle": "Koregaon Park", "category": "Cafe", "tagline": "European bakery, sourdough, good espresso", "tags": ["Great coffee", "Aesthetic"], "lat": 18.5362, "lon": 73.8936 }
+          ]
+        },
+        {
+          "title": "Food worth the detour",
+          "places": [
+            { "name": "Vaishali", "subtitle": "FC Road", "category": "Restaurant", "tagline": "Open-air South Indian, Punekars' breakfast institution", "tags": ["Hidden gem", "Good staff"], "lat": 18.5196, "lon": 73.8381 },
+            { "name": "Malaka Spice", "subtitle": "Koregaon Park", "category": "Restaurant", "tagline": "Pan-Asian done right, great for groups", "tags": ["Good staff", "Great vibes"], "lat": 18.5362, "lon": 73.8936 },
+            { "name": "Sujata Mastani", "subtitle": "Sadashiv Peth", "category": "Restaurant", "tagline": "Pune's iconic thick milkshake. One is never enough.", "tags": ["Hidden gem"], "lat": 18.5074, "lon": 73.8516 },
+            { "name": "German Bakery", "subtitle": "Koregaon Park", "category": "Bakery", "tagline": "Osho ashram next door, garden seating, good bakes", "tags": ["Aesthetic"], "lat": 18.5337, "lon": 73.9059 }
+          ]
+        },
+        {
+          "title": "Bars & craft beer",
+          "places": [
+            { "name": "Great State Aleworks", "subtitle": "Kalyani Nagar", "category": "Brewery", "tagline": "Pune's best craft brewery, rotating seasonal taps", "tags": ["Great vibes"], "lat": 18.5479, "lon": 73.9065 },
+            { "name": "Effingut", "subtitle": "Koregaon Park", "category": "Brewery", "tagline": "House brews, good bar bites, reliable crowd", "tags": ["Great vibes"], "lat": 18.5362, "lon": 73.8936 },
+            { "name": "Doolally Taproom", "subtitle": "Koregaon Park", "category": "Brewery", "tagline": "Pioneer of craft beer in Pune, still the best", "tags": ["Great vibes", "Hidden gem"], "lat": 18.5390, "lon": 73.8980 },
+            { "name": "High Spirits", "subtitle": "Koregaon Park", "category": "Bar", "tagline": "Best live music venue in Pune, outdoor stage", "tags": ["Great vibes"], "lat": 18.5362, "lon": 73.8936 }
+          ]
+        },
+        {
+          "title": "Parks & open air",
+          "places": [
+            { "name": "Osho Teerth Garden", "subtitle": "Koregaon Park", "category": "Park", "tagline": "Japanese zen garden, unexpected calm in the city", "tags": ["Scenic", "Hidden gem"], "lat": 18.5337, "lon": 73.9059 },
+            { "name": "Empress Botanical Garden", "subtitle": "Pune Camp", "category": "Park", "tagline": "Victorian-era garden, old trees, quiet paths", "tags": ["Scenic", "Hidden gem"], "lat": 18.5235, "lon": 73.8701 },
+            { "name": "Parvati Hill", "subtitle": "Parvati", "category": "Park", "tagline": "108 steps, temple at the top, city views at dusk", "tags": ["Scenic"], "lat": 18.4929, "lon": 73.8551 },
+            { "name": "Sinhagad Fort", "subtitle": "Sinhagad", "category": "Park", "tagline": "Trekkers' fort, zunka bhakar at the top", "tags": ["Scenic", "Hidden gem"], "lat": 18.3624, "lon": 73.7552 }
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "name": "London",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Neighbourhood coffee",
+          "places": [
+            { "name": "Monmouth Coffee", "subtitle": "Borough Market", "category": "Cafe", "tagline": "The original London specialty roaster. Queue is part of it.", "tags": ["Great coffee"], "lat": 51.5055, "lon": -0.0908 },
+            { "name": "Climpson & Sons", "subtitle": "Broadway Market, Hackney", "category": "Cafe", "tagline": "East London roastery, market-day crowds", "tags": ["Great coffee", "Great vibes"], "lat": 51.5418, "lon": -0.0632 },
+            { "name": "Ozone Coffee Roasters", "subtitle": "Old Street", "category": "Cafe", "tagline": "New Zealand-style all-day café, consistently great", "tags": ["Great coffee", "Best to work"], "lat": 51.5264, "lon": -0.0883 },
+            { "name": "Flat White", "subtitle": "Soho", "category": "Cafe", "tagline": "Tiny Soho institution, best flat white in the neighbourhood", "tags": ["Great coffee"], "lat": 51.5136, "lon": -0.1348 },
+            { "name": "TAP Coffee", "subtitle": "Covent Garden", "category": "Cafe", "tagline": "Central London's best specialty shop, no fuss", "tags": ["Great coffee", "Best to work"], "lat": 51.5136, "lon": -0.1248 }
+          ]
+        },
+        {
+          "title": "Restaurants worth booking",
+          "places": [
+            { "name": "St. John", "subtitle": "Smithfield", "category": "Restaurant", "tagline": "Nose-to-tail British cooking. Bone marrow on toast.", "tags": ["Good staff"], "lat": 51.5202, "lon": -0.1004 },
+            { "name": "Padella", "subtitle": "Borough Market", "category": "Restaurant", "tagline": "Queue outside, fresh pasta inside, worth every minute", "tags": ["Good staff"], "lat": 51.5055, "lon": -0.0905 },
+            { "name": "Rochelle Canteen", "subtitle": "Shoreditch", "category": "Restaurant", "tagline": "Converted bike shed, seasonal British, members and walk-ins", "tags": ["Aesthetic", "Good staff"], "lat": 51.5246, "lon": -0.0776 },
+            { "name": "Barrafina", "subtitle": "Soho", "category": "Restaurant", "tagline": "Counter dining, Spanish, no bookings — arrive early", "tags": ["Good staff"], "lat": 51.5142, "lon": -0.1338 },
+            { "name": "Kiln", "subtitle": "Soho", "category": "Restaurant", "tagline": "Thai wood-fire cooking at a counter. Unbeatable.", "tags": ["Good staff", "Great vibes"], "lat": 51.5136, "lon": -0.1348 }
+          ]
+        },
+        {
+          "title": "Pubs & natural wine",
+          "places": [
+            { "name": "The French House", "subtitle": "Soho", "category": "Bar", "tagline": "Only halves served, literary history, no phones at the bar", "tags": ["Aesthetic", "Hidden gem"], "lat": 51.5136, "lon": -0.1348 },
+            { "name": "The Marksman", "subtitle": "Hackney Road", "category": "Bar", "tagline": "Best Sunday roast in East London, proper pub upstairs", "tags": ["Good staff", "Great vibes"], "lat": 51.5278, "lon": -0.0640 },
+            { "name": "Noble Fine Liquor", "subtitle": "London Fields", "category": "Bar", "tagline": "Natural wine shop and bar, Hackney's best", "tags": ["Aesthetic", "Hidden gem"], "lat": 51.5424, "lon": -0.0536 },
+            { "name": "Sommelier's Dog", "subtitle": "Bermondsey", "category": "Bar", "tagline": "Tiny wine bar, exceptional list, knowledgeable staff", "tags": ["Aesthetic", "Good staff"], "lat": 51.4975, "lon": -0.0806 }
+          ]
+        },
+        {
+          "title": "Parks & open space",
+          "places": [
+            { "name": "Victoria Park", "subtitle": "Hackney", "category": "Park", "tagline": "East London's park, canal walks, weekend markets", "tags": ["Scenic"], "lat": 51.5373, "lon": -0.0387 },
+            { "name": "Hampstead Heath", "subtitle": "Hampstead", "category": "Park", "tagline": "Swimming ponds, Parliament Hill views, feels wild", "tags": ["Scenic"], "lat": 51.5603, "lon": -0.1668 },
+            { "name": "Brockwell Park", "subtitle": "Herne Hill", "category": "Park", "tagline": "South London hill, lido in summer, great views", "tags": ["Scenic", "Hidden gem"], "lat": 51.4523, "lon": -0.1033 },
+            { "name": "London Fields", "subtitle": "Hackney", "category": "Park", "tagline": "Lido, pub on the edge, weekend cricketers", "tags": ["Scenic", "Great vibes"], "lat": 51.5424, "lon": -0.0536 }
+          ]
+        },
+        {
+          "title": "Markets & weekend wanders",
+          "places": [
+            { "name": "Broadway Market", "subtitle": "Hackney", "category": "Market", "tagline": "Saturday food market, the best of East London producers", "tags": ["Great vibes", "Aesthetic"], "lat": 51.5418, "lon": -0.0632 },
+            { "name": "Columbia Road Flower Market", "subtitle": "Shoreditch", "category": "Market", "tagline": "Sunday only, flowers and East End traders, arrives early", "tags": ["Aesthetic"], "lat": 51.5297, "lon": -0.0727 },
+            { "name": "Borough Market", "subtitle": "London Bridge", "category": "Market", "tagline": "London's best food market, go hungry on a Thursday", "tags": ["Great vibes"], "lat": 51.5055, "lon": -0.0908 },
+            { "name": "Daunt Books", "subtitle": "Marylebone", "category": "Books", "tagline": "Edwardian bookshop, geography arranged by country", "tags": ["Aesthetic", "Hidden gem"], "lat": 51.5200, "lon": -0.1527 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "aliases": ["NYC", "New York City"],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Coffee worth the walk",
+          "places": [
+            { "name": "Abraço", "subtitle": "East Village", "category": "Cafe", "tagline": "Tiny counter, exceptional espresso, olive oil cake", "tags": ["Great coffee"], "lat": 40.7264, "lon": -73.9818 },
+            { "name": "Devoción", "subtitle": "Williamsburg", "category": "Cafe", "tagline": "Farm-to-cup Colombian roastery, stunning space", "tags": ["Great coffee", "Aesthetic"], "lat": 40.7143, "lon": -73.9570 },
+            { "name": "Café Grumpy", "subtitle": "Chelsea", "category": "Cafe", "tagline": "NYC specialty pioneer, consistently excellent", "tags": ["Great coffee", "Best to work"], "lat": 40.7459, "lon": -74.0000 },
+            { "name": "Joe Coffee", "subtitle": "West Village", "category": "Cafe", "tagline": "Neighbourhood stalwart, proper flat whites", "tags": ["Great coffee"], "lat": 40.7339, "lon": -74.0044 }
+          ]
+        },
+        {
+          "title": "Restaurants the locals queue for",
+          "places": [
+            { "name": "Russ & Daughters Café", "subtitle": "Lower East Side", "category": "Restaurant", "tagline": "Bagels, lox, schmear. NYC Jewish deli perfection.", "tags": ["Hidden gem", "Good staff"], "lat": 40.7223, "lon": -73.9884 },
+            { "name": "Superiority Burger", "subtitle": "East Village", "category": "Restaurant", "tagline": "Best veggie burger in the city, no contest", "tags": ["Hidden gem"], "lat": 40.7264, "lon": -73.9818 },
+            { "name": "Ivan Ramen", "subtitle": "Lower East Side", "category": "Restaurant", "tagline": "American-Japanese ramen from a Tokyo legend", "tags": ["Good staff"], "lat": 40.7198, "lon": -73.9844 },
+            { "name": "Di Fara Pizza", "subtitle": "Midwood, Brooklyn", "category": "Restaurant", "tagline": "Dom makes every pie himself. Cash only, long wait.", "tags": ["Hidden gem"], "lat": 40.6247, "lon": -73.9611 },
+            { "name": "Estela", "subtitle": "Nolita", "category": "Restaurant", "tagline": "Wine bar dining, sharing plates, justifiably famous", "tags": ["Aesthetic", "Good staff"], "lat": 40.7223, "lon": -73.9960 }
+          ]
+        },
+        {
+          "title": "Bars & cocktail rooms",
+          "places": [
+            { "name": "Employees Only", "subtitle": "West Village", "category": "Bar", "tagline": "Prohibition-era cocktail bar, psychic at the door", "tags": ["Aesthetic", "Good staff"], "lat": 40.7339, "lon": -74.0044 },
+            { "name": "Please Don't Tell", "subtitle": "East Village", "category": "Bar", "tagline": "Phone booth entry through a hot dog shop, legendary", "tags": ["Aesthetic", "Hidden gem"], "lat": 40.7264, "lon": -73.9818 },
+            { "name": "Attaboy", "subtitle": "Lower East Side", "category": "Bar", "tagline": "No menu, tell them what you feel like", "tags": ["Hidden gem", "Good staff"], "lat": 40.7198, "lon": -73.9845 },
+            { "name": "Bar Goto", "subtitle": "Lower East Side", "category": "Bar", "tagline": "Japanese-inspired cocktails, exquisite and quiet", "tags": ["Aesthetic", "Good staff"], "lat": 40.7198, "lon": -73.9872 }
+          ]
+        },
+        {
+          "title": "Parks & waterfronts",
+          "places": [
+            { "name": "Prospect Park", "subtitle": "Brooklyn", "category": "Park", "tagline": "Olmsted's favourite work, locals over tourists", "tags": ["Scenic"], "lat": 40.6601, "lon": -73.9696 },
+            { "name": "The High Line", "subtitle": "Chelsea", "category": "Park", "tagline": "Elevated rail park, Hudson views, good people-watching", "tags": ["Scenic", "Aesthetic"], "lat": 40.7479, "lon": -74.0048 },
+            { "name": "Domino Park", "subtitle": "Williamsburg", "category": "Park", "tagline": "East River views, sugar factory ruins, weekend crowds", "tags": ["Scenic", "Great vibes"], "lat": 40.7143, "lon": -73.9720 },
+            { "name": "Fort Greene Park", "subtitle": "Fort Greene, Brooklyn", "category": "Park", "tagline": "Brownstone views, Saturday farmers market at the gate", "tags": ["Scenic", "Hidden gem"], "lat": 40.6895, "lon": -73.9751 }
+          ]
+        },
+        {
+          "title": "Bookstores worth browsing",
+          "places": [
+            { "name": "The Strand", "subtitle": "Union Square", "category": "Books", "tagline": "18 miles of books. Budget three hours minimum.", "tags": ["Hidden gem"], "lat": 40.7329, "lon": -73.9908 },
+            { "name": "McNally Jackson", "subtitle": "Nolita", "category": "Books", "tagline": "Best independent bookstore in NYC, great events", "tags": ["Aesthetic"], "lat": 40.7223, "lon": -73.9960 },
+            { "name": "Printed Matter", "subtitle": "Chelsea", "category": "Books", "tagline": "Artist books and zines, like nowhere else", "tags": ["Aesthetic", "Hidden gem"], "lat": 40.7474, "lon": -74.0060 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paris",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Cafés & morning pastries",
+          "places": [
+            { "name": "Du Pain et des Idées", "subtitle": "Canal Saint-Martin", "category": "Bakery", "tagline": "Best croissant in Paris. Closed weekends.", "tags": ["Aesthetic", "Hidden gem"], "lat": 48.8700, "lon": 2.3620 },
+            { "name": "Ten Belles", "subtitle": "Canal Saint-Martin", "category": "Cafe", "tagline": "Australian-style specialty coffee, Paris's best flat white", "tags": ["Great coffee", "Aesthetic"], "lat": 48.8696, "lon": 2.3638 },
+            { "name": "Fragments", "subtitle": "Le Marais", "category": "Cafe", "tagline": "Specialty coffee hidden in a Marais courtyard", "tags": ["Great coffee", "Hidden gem"], "lat": 48.8576, "lon": 2.3545 },
+            { "name": "Ob-La-Di", "subtitle": "Le Marais", "category": "Cafe", "tagline": "Brunch queue down the street, worth every minute", "tags": ["Great coffee", "Great vibes"], "lat": 48.8580, "lon": 2.3560 }
+          ]
+        },
+        {
+          "title": "Restaurants the French go to",
+          "places": [
+            { "name": "Septime", "subtitle": "Bastille", "category": "Restaurant", "tagline": "Benchmark of modern Paris bistronomy. Book 3 weeks ahead.", "tags": ["Good staff", "Aesthetic"], "lat": 48.8533, "lon": 2.3692 },
+            { "name": "Frenchie", "subtitle": "Sentier", "category": "Restaurant", "tagline": "Market menu, small plates, neighbourhood feel", "tags": ["Good staff"], "lat": 48.8648, "lon": 2.3490 },
+            { "name": "Chez L'Ami Jean", "subtitle": "7th arrondissement", "category": "Restaurant", "tagline": "Basque-Paris cooking, loud and joyful, legendary rice pudding", "tags": ["Good staff", "Great vibes"], "lat": 48.8597, "lon": 2.3103 },
+            { "name": "Le Comptoir du Relais", "subtitle": "Saint-Germain", "category": "Restaurant", "tagline": "Yves Camdeborde's bistro, lunch is a steal", "tags": ["Good staff"], "lat": 48.8534, "lon": 2.3337 }
+          ]
+        },
+        {
+          "title": "Wine bars & late evenings",
+          "places": [
+            { "name": "La Buvette", "subtitle": "Pigalle", "category": "Bar", "tagline": "Tiny natural wine bar, no reservations, worth waiting", "tags": ["Aesthetic", "Hidden gem"], "lat": 48.8828, "lon": 2.3387 },
+            { "name": "Le Baron Rouge", "subtitle": "Aligre", "category": "Bar", "tagline": "Barrels on the wall, oysters outside on weekends", "tags": ["Hidden gem", "Great vibes"], "lat": 48.8485, "lon": 2.3748 },
+            { "name": "Aux Deux Amis", "subtitle": "Oberkampf", "category": "Bar", "tagline": "Natural wine, small plates, the real Paris", "tags": ["Great vibes", "Good staff"], "lat": 48.8644, "lon": 2.3740 },
+            { "name": "Septime La Cave", "subtitle": "Bastille", "category": "Bar", "tagline": "Wine cave below street level, no-fuss natural list", "tags": ["Aesthetic", "Hidden gem"], "lat": 48.8533, "lon": 2.3692 }
+          ]
+        },
+        {
+          "title": "Parks & garden escapes",
+          "places": [
+            { "name": "Parc des Buttes-Chaumont", "subtitle": "19th arrondissement", "category": "Park", "tagline": "Cliff, lake, temple — Paris's most dramatic park", "tags": ["Scenic", "Aesthetic"], "lat": 48.8797, "lon": 2.3822 },
+            { "name": "Promenade Plantée", "subtitle": "12th arrondissement", "category": "Park", "tagline": "Elevated rail garden, NYC's High Line was inspired by this", "tags": ["Scenic", "Hidden gem"], "lat": 48.8502, "lon": 2.3836 },
+            { "name": "Jardin des Plantes", "subtitle": "5th arrondissement", "category": "Park", "tagline": "Botanical garden, greenhouse, natural history museum", "tags": ["Scenic"], "lat": 48.8444, "lon": 2.3576 },
+            { "name": "Square du Vert-Galant", "subtitle": "Île de la Cité", "category": "Park", "tagline": "Tip of the island, Seine on both sides, empty at dawn", "tags": ["Scenic", "Hidden gem"], "lat": 48.8558, "lon": 2.3408 }
+          ]
+        },
+        {
+          "title": "Bookstores & quiet shops",
+          "places": [
+            { "name": "Shakespeare and Company", "subtitle": "Latin Quarter", "category": "Books", "tagline": "The one. Poets slept upstairs for decades.", "tags": ["Aesthetic", "Hidden gem"], "lat": 48.8527, "lon": 2.3470 },
+            { "name": "Librairie Galignani", "subtitle": "Rue de Rivoli", "category": "Books", "tagline": "First English-language bookshop on the continent, est. 1801", "tags": ["Aesthetic", "Hidden gem"], "lat": 48.8649, "lon": 2.3322 },
+            { "name": "Abbey Bookshop", "subtitle": "Latin Quarter", "category": "Books", "tagline": "Canadian-run, floor-to-ceiling, brilliant obscure finds", "tags": ["Hidden gem"], "lat": 48.8527, "lon": 2.3470 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tokyo",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Coffee & kissaten",
+          "places": [
+            { "name": "Fuglen Tokyo", "subtitle": "Tomigaya", "category": "Cafe", "tagline": "Oslo café transplant, now a Tokyo institution. Cocktails at night.", "tags": ["Great coffee", "Aesthetic"], "lat": 35.6617, "lon": 139.6861 },
+            { "name": "Bear Pond Espresso", "subtitle": "Shimokitazawa", "category": "Cafe", "tagline": "Tiny, strict, legendary espresso. Go before noon.", "tags": ["Great coffee", "Hidden gem"], "lat": 35.6617, "lon": 139.6680 },
+            { "name": "Onibus Coffee", "subtitle": "Nakameguro", "category": "Cafe", "tagline": "Japanese roastery, canal-side, perfect pour-overs", "tags": ["Great coffee", "Aesthetic"], "lat": 35.6437, "lon": 139.6987 },
+            { "name": "Café de l'Ambre", "subtitle": "Ginza", "category": "Cafe", "tagline": "Kissaten since 1948, aged beans, owner in his 90s", "tags": ["Aesthetic", "Hidden gem"], "lat": 35.6726, "lon": 139.7649 },
+            { "name": "Chatei Hatou", "subtitle": "Shibuya", "category": "Cafe", "tagline": "Old-school kissaten, siphon coffee, hushed and perfect", "tags": ["Aesthetic", "Hidden gem"], "lat": 35.6580, "lon": 139.7016 }
+          ]
+        },
+        {
+          "title": "Ramen, soba & izakayas",
+          "places": [
+            { "name": "Nakiryu", "subtitle": "Minami-Otsuka", "category": "Restaurant", "tagline": "Michelin-starred tantanmen. Queue opens at 11am.", "tags": ["Hidden gem"], "lat": 35.7285, "lon": 139.7267 },
+            { "name": "Afuri", "subtitle": "Ebisu", "category": "Restaurant", "tagline": "Yuzu shio ramen, light and clean, perpetually popular", "tags": ["Good staff"], "lat": 35.6467, "lon": 139.7135 },
+            { "name": "Kagari", "subtitle": "Ginza", "category": "Restaurant", "tagline": "Chicken paitan ramen, silky and rich, six seats only", "tags": ["Hidden gem"], "lat": 35.6726, "lon": 139.7649 },
+            { "name": "Gonpachi", "subtitle": "Nishi-Azabu", "category": "Restaurant", "tagline": "The Kill Bill izakaya, yakitori and sake", "tags": ["Aesthetic", "Great vibes"], "lat": 35.6600, "lon": 139.7230 }
+          ]
+        },
+        {
+          "title": "Whisky & late-night bars",
+          "places": [
+            { "name": "Bar High Five", "subtitle": "Ginza", "category": "Bar", "tagline": "Hidetsugu Ueno's bar, tell him what mood you're in", "tags": ["Good staff", "Aesthetic"], "lat": 35.6726, "lon": 139.7649 },
+            { "name": "Zoetrope", "subtitle": "Shinjuku", "category": "Bar", "tagline": "300+ Japanese whiskies, the best selection in the world", "tags": ["Hidden gem", "Aesthetic"], "lat": 35.6938, "lon": 139.7036 },
+            { "name": "Gen Yamamoto", "subtitle": "Azabu-Juban", "category": "Bar", "tagline": "Seasonal cocktail omakase, only eight seats", "tags": ["Aesthetic", "Good staff"], "lat": 35.6564, "lon": 139.7373 },
+            { "name": "Bar Benfiddich", "subtitle": "Shinjuku", "category": "Bar", "tagline": "Bartender grows his own herbs on the rooftop", "tags": ["Hidden gem", "Good staff"], "lat": 35.6938, "lon": 139.7036 }
+          ]
+        },
+        {
+          "title": "Shrines, parks & slow walks",
+          "places": [
+            { "name": "Yanaka Cemetery & Neighbourhood", "subtitle": "Yanaka", "category": "Park", "tagline": "Old Tokyo survives here. Cats, temples, shotengai.", "tags": ["Scenic", "Hidden gem"], "lat": 35.7272, "lon": 139.7631 },
+            { "name": "Meiji Shrine", "subtitle": "Harajuku", "category": "Temple", "tagline": "Forest in the city, gravel path, unexpected calm", "tags": ["Scenic"], "lat": 35.6764, "lon": 139.6993 },
+            { "name": "Shinjuku Gyoen", "subtitle": "Shinjuku", "category": "Park", "tagline": "Best cherry blossoms in Tokyo, French + English gardens", "tags": ["Scenic", "Aesthetic"], "lat": 35.6852, "lon": 139.7100 },
+            { "name": "Yoyogi Park", "subtitle": "Harajuku", "category": "Park", "tagline": "Sunday cosplay, band practice, families, all coexisting", "tags": ["Scenic", "Great vibes"], "lat": 35.6702, "lon": 139.6947 }
+          ]
+        },
+        {
+          "title": "Records, books & wanders",
+          "places": [
+            { "name": "Disk Union Shimokitazawa", "subtitle": "Shimokitazawa", "category": "Books", "tagline": "Multi-floor used record store, genre specialists per floor", "tags": ["Hidden gem"], "lat": 35.6617, "lon": 139.6680 },
+            { "name": "Cow Books", "subtitle": "Nakameguro", "category": "Books", "tagline": "Canal-side second-hand bookshop, mostly English titles", "tags": ["Aesthetic", "Hidden gem"], "lat": 35.6437, "lon": 139.7000 },
+            { "name": "Shimokitazawa neighbourhood", "subtitle": "Shimokitazawa", "category": "Neighbourhood", "tagline": "Vintage shops, live music, the soul of bohemian Tokyo", "tags": ["Hidden gem", "Great vibes"], "lat": 35.6617, "lon": 139.6680 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Hawker centres & kopi",
+          "places": [
+            { "name": "Maxwell Food Centre", "subtitle": "Tanjong Pagar", "category": "Hawker", "tagline": "Tian Tian chicken rice is here. Queue early.", "tags": ["Hidden gem"], "lat": 1.2802, "lon": 103.8449 },
+            { "name": "Tiong Bahru Market", "subtitle": "Tiong Bahru", "category": "Hawker", "tagline": "Old Singapore hawker culture, chwee kueh at level one", "tags": ["Hidden gem", "Aesthetic"], "lat": 1.2847, "lon": 103.8272 },
+            { "name": "Old Airport Road Food Centre", "subtitle": "Old Airport Road", "category": "Hawker", "tagline": "Locals-only energy, best char kway teow in the city", "tags": ["Hidden gem"], "lat": 1.3065, "lon": 103.8883 },
+            { "name": "Lau Pa Sat", "subtitle": "CBD", "category": "Hawker", "tagline": "Victorian cast-iron market, satay street at night", "tags": ["Aesthetic"], "lat": 1.2806, "lon": 103.8503 }
+          ]
+        },
+        {
+          "title": "Restaurants & cafés",
+          "places": [
+            { "name": "Burnt Ends", "subtitle": "Teck Lim Road", "category": "Restaurant", "tagline": "Wood-fire Australian BBQ, booking months ahead", "tags": ["Good staff"], "lat": 1.2827, "lon": 103.8347 },
+            { "name": "Candlenut", "subtitle": "COMO Dempsey", "category": "Restaurant", "tagline": "World's first Michelin-starred Peranakan restaurant", "tags": ["Good staff", "Aesthetic"], "lat": 1.3046, "lon": 103.8068 },
+            { "name": "The Coconut Club", "subtitle": "Beach Road", "category": "Restaurant", "tagline": "Nasi lemak done obsessively, coconut sourced direct from farm", "tags": ["Hidden gem", "Good staff"], "lat": 1.2990, "lon": 103.8554 },
+            { "name": "Lolla", "subtitle": "Ann Siang Hill", "category": "Restaurant", "tagline": "Intimate counter dining, sea urchin toast is unmissable", "tags": ["Aesthetic", "Good staff"], "lat": 1.2802, "lon": 103.8449 }
+          ]
+        },
+        {
+          "title": "Bars & rooftop nights",
+          "places": [
+            { "name": "28 HongKong Street", "subtitle": "Clarke Quay", "category": "Bar", "tagline": "Unmarked door, NYC-quality cocktails, Singapore's best bar", "tags": ["Hidden gem", "Good staff"], "lat": 1.2873, "lon": 103.8432 },
+            { "name": "Manhattan Bar", "subtitle": "Regent Hotel, Orchard", "category": "Bar", "tagline": "World-class cocktail programme, American bar in Asia", "tags": ["Aesthetic", "Good staff"], "lat": 1.3039, "lon": 103.8338 },
+            { "name": "Atlas Bar", "subtitle": "Bugis", "category": "Bar", "tagline": "Art Deco tower of gin, 1000+ bottles, spectacular", "tags": ["Aesthetic"], "lat": 1.2990, "lon": 103.8554 },
+            { "name": "Operation Dagger", "subtitle": "Ann Siang Hill", "category": "Bar", "tagline": "Basement cocktail lab, no spirits on the menu", "tags": ["Hidden gem", "Good staff"], "lat": 1.2802, "lon": 103.8449 }
+          ]
+        },
+        {
+          "title": "Parks & green escapes",
+          "places": [
+            { "name": "Singapore Botanic Gardens", "subtitle": "Tanglin", "category": "Park", "tagline": "UNESCO site, national orchid garden, free on weekdays", "tags": ["Scenic"], "lat": 1.3138, "lon": 103.8159 },
+            { "name": "Southern Ridges", "subtitle": "Telok Blangah", "category": "Park", "tagline": "10km ridge walk, canopy bridge, Faber Point sunset", "tags": ["Scenic", "Hidden gem"], "lat": 1.2744, "lon": 103.8041 },
+            { "name": "Pulau Ubin", "subtitle": "Changi Ferry Terminal", "category": "Park", "tagline": "Last kampung island, bicycle around in half a day", "tags": ["Scenic", "Hidden gem"], "lat": 1.4055, "lon": 103.9577 }
+          ]
+        },
+        {
+          "title": "Neighbourhoods to wander",
+          "places": [
+            { "name": "Tiong Bahru", "subtitle": "Tiong Bahru", "category": "Neighbourhood", "tagline": "Art Deco housing, indie cafés, cats on every corner", "tags": ["Aesthetic", "Hidden gem"], "lat": 1.2847, "lon": 103.8272 },
+            { "name": "Joo Chiat & Katong", "subtitle": "Katong", "category": "Neighbourhood", "tagline": "Peranakan shophouses, laksa at the source", "tags": ["Aesthetic", "Hidden gem"], "lat": 1.3158, "lon": 103.9044 },
+            { "name": "Arab Street & Haji Lane", "subtitle": "Bugis", "category": "Neighbourhood", "tagline": "Sultan Mosque, indie boutiques, good Middle Eastern food", "tags": ["Aesthetic"], "lat": 1.3022, "lon": 103.8592 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bangkok",
+      "aliases": ["Krung Thep"],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Street food & markets",
+          "places": [
+            { "name": "Or Tor Kor Market", "subtitle": "Chatuchak", "category": "Market", "tagline": "Bangkok's finest fresh market, mango sticky rice benchmark", "tags": ["Hidden gem"], "lat": 13.7999, "lon": 100.5500 },
+            { "name": "Yaowarat Road", "subtitle": "Chinatown", "category": "Street Food", "tagline": "Bangkok's Chinatown at night — oyster omelettes, grilled seafood", "tags": ["Great vibes", "Hidden gem"], "lat": 13.7390, "lon": 100.5097 },
+            { "name": "Chatuchak Weekend Market", "subtitle": "Chatuchak", "category": "Market", "tagline": "15,000 stalls. Get there early and accept you'll get lost.", "tags": ["Great vibes"], "lat": 13.7999, "lon": 100.5500 },
+            { "name": "Talat Rot Fai Night Market", "subtitle": "Ratchada", "category": "Market", "tagline": "Retro market under neon, good food and strange antiques", "tags": ["Aesthetic", "Great vibes"], "lat": 13.7600, "lon": 100.5648 }
+          ]
+        },
+        {
+          "title": "Cafés & all-day spots",
+          "places": [
+            { "name": "Rocket Coffeebar", "subtitle": "Sukhumvit 49", "category": "Cafe", "tagline": "Bangkok's specialty coffee reference point", "tags": ["Great coffee", "Best to work"], "lat": 13.7307, "lon": 100.5694 },
+            { "name": "Casa Lapin", "subtitle": "Sathorn", "category": "Cafe", "tagline": "Artisanal coffee and brunch, Sathorn's best", "tags": ["Great coffee", "Aesthetic"], "lat": 13.7262, "lon": 100.5233 },
+            { "name": "Ceresia Coffee Roasters", "subtitle": "Wireless Road", "category": "Cafe", "tagline": "Thai specialty roastery, great single-origin selection", "tags": ["Great coffee"], "lat": 13.7400, "lon": 100.5476 },
+            { "name": "The Never Ending Summer", "subtitle": "Chao Phraya riverside", "category": "Restaurant", "tagline": "Riverfront Thai food in a converted warehouse, stunning space", "tags": ["Aesthetic", "Good staff"], "lat": 13.7600, "lon": 100.4900 }
+          ]
+        },
+        {
+          "title": "Rooftops & bar nights",
+          "places": [
+            { "name": "Vertigo", "subtitle": "Banyan Tree Hotel, Sathorn", "category": "Bar", "tagline": "61st floor, open sky, city grid below you", "tags": ["Aesthetic", "Great vibes"], "lat": 13.7262, "lon": 100.5233 },
+            { "name": "Above Eleven", "subtitle": "Fraser Suites, Sukhumvit 11", "category": "Bar", "tagline": "Peruvian-Japanese rooftop bar, Asok views", "tags": ["Aesthetic"], "lat": 13.7307, "lon": 100.5560 },
+            { "name": "Smalls", "subtitle": "Sukhumvit 26", "category": "Bar", "tagline": "Bangkok's best cocktail bar, unpretentious and brilliant", "tags": ["Hidden gem", "Good staff"], "lat": 13.7307, "lon": 100.5694 }
+          ]
+        },
+        {
+          "title": "Temples & culture",
+          "places": [
+            { "name": "Wat Pho", "subtitle": "Rattanakosin Island", "category": "Temple", "tagline": "Reclining Buddha 46m long, traditional massage school onsite", "tags": ["Scenic", "Aesthetic"], "lat": 13.7462, "lon": 100.4929 },
+            { "name": "Wat Arun", "subtitle": "Thonburi", "category": "Temple", "tagline": "Temple of Dawn, ceramic-mosaic spires over the Chao Phraya", "tags": ["Scenic", "Aesthetic"], "lat": 13.7438, "lon": 100.4891 },
+            { "name": "Wat Saket (Golden Mount)", "subtitle": "Old Bangkok", "category": "Temple", "tagline": "300 steps, panoramic city views, uncrowded", "tags": ["Scenic", "Hidden gem"], "lat": 13.7534, "lon": 100.5072 },
+            { "name": "Jim Thompson House", "subtitle": "Siam", "category": "Museum", "tagline": "Six Thai houses on a canal, silk legend's home", "tags": ["Aesthetic", "Hidden gem"], "lat": 13.7472, "lon": 100.5305 }
+          ]
+        },
+        {
+          "title": "Neighbourhoods worth knowing",
+          "places": [
+            { "name": "Ari", "subtitle": "Ari BTS", "category": "Neighbourhood", "tagline": "Bangkok for locals — cafés, small restaurants, no tourists", "tags": ["Hidden gem"], "lat": 13.7742, "lon": 100.5411 },
+            { "name": "Ekkamai & Thonglor", "subtitle": "Sukhumvit", "category": "Neighbourhood", "tagline": "Bangkok's most liveable stretch, weekend brunch scene", "tags": ["Great vibes"], "lat": 13.7207, "lon": 100.5856 },
+            { "name": "Bang Rak Riverside", "subtitle": "Bang Rak", "category": "Neighbourhood", "tagline": "Old merchant quarter, Capella hotel, ferry piers", "tags": ["Aesthetic", "Hidden gem"], "lat": 13.7260, "lon": 100.5150 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bali",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Cafés & slow mornings",
+          "places": [
+            { "name": "Shelter Café", "subtitle": "Canggu", "category": "Cafe", "tagline": "Volcanic stone interiors, great espresso, always full", "tags": ["Great coffee", "Aesthetic"], "lat": -8.6482, "lon": 115.1333 },
+            { "name": "Crate Café", "subtitle": "Canggu", "category": "Cafe", "tagline": "Australian brunch energy, acai bowls, good coffee", "tags": ["Great coffee", "Great vibes"], "lat": -8.6530, "lon": 115.1301 },
+            { "name": "Revolver Espresso", "subtitle": "Seminyak", "category": "Cafe", "tagline": "Alley café, tiny, Bali's specialty coffee pioneer", "tags": ["Great coffee", "Hidden gem"], "lat": -8.6878, "lon": 115.1620 },
+            { "name": "The Shady Shack", "subtitle": "Canggu", "category": "Cafe", "tagline": "Plant-based all-day café, rice field views", "tags": ["Aesthetic", "Great vibes"], "lat": -8.6510, "lon": 115.1285 },
+            { "name": "Sensorium", "subtitle": "Berawa, Canggu", "category": "Cafe", "tagline": "Coffee and dessert lab, single-origin focus", "tags": ["Great coffee", "Aesthetic"], "lat": -8.6548, "lon": 115.1304 }
+          ]
+        },
+        {
+          "title": "Beach clubs & sunsets",
+          "places": [
+            { "name": "Potato Head Beach Club", "subtitle": "Seminyak", "category": "Bar", "tagline": "Iconic Balinese design, infinity pool, sunset drinks", "tags": ["Aesthetic", "Great vibes"], "lat": -8.6912, "lon": 115.1573 },
+            { "name": "La Plancha", "subtitle": "Seminyak Beach", "category": "Bar", "tagline": "Coloured bean bags on the sand, mojitos at golden hour", "tags": ["Great vibes", "Scenic"], "lat": -8.6950, "lon": 115.1539 },
+            { "name": "Single Fin", "subtitle": "Uluwatu", "category": "Bar", "tagline": "Cliff-side surf bar, Sunday sessions, Uluwatu break below", "tags": ["Scenic", "Great vibes"], "lat": -8.8333, "lon": 115.0879 },
+            { "name": "Finn's Beach Club", "subtitle": "Berawa, Canggu", "category": "Bar", "tagline": "Lively beach club, multiple pools, sunset crowds", "tags": ["Great vibes"], "lat": -8.6482, "lon": 115.1304 }
+          ]
+        },
+        {
+          "title": "Restaurants worth booking",
+          "places": [
+            { "name": "Locavore", "subtitle": "Ubud", "category": "Restaurant", "tagline": "Indonesia's best restaurant. Farm-to-table, tasting menu.", "tags": ["Good staff", "Aesthetic"], "lat": -8.5069, "lon": 115.2625 },
+            { "name": "Mozaic", "subtitle": "Ubud", "category": "Restaurant", "tagline": "Garden fine dining, French-Balinese, 20+ years strong", "tags": ["Aesthetic", "Good staff"], "lat": -8.4995, "lon": 115.2597 },
+            { "name": "Merah Putih", "subtitle": "Seminyak", "category": "Restaurant", "tagline": "Indonesian archipelago menu, stunning barn interior", "tags": ["Aesthetic", "Good staff"], "lat": -8.6912, "lon": 115.1597 },
+            { "name": "Naughty Nuri's", "subtitle": "Ubud", "category": "Restaurant", "tagline": "Legendary pork ribs, legendary martinis", "tags": ["Hidden gem", "Great vibes"], "lat": -8.5069, "lon": 115.2590 }
+          ]
+        },
+        {
+          "title": "Temples & sacred spots",
+          "places": [
+            { "name": "Tanah Lot", "subtitle": "Tabanan", "category": "Temple", "tagline": "Sea temple on a rock, sunset pilgrimage for a reason", "tags": ["Scenic", "Aesthetic"], "lat": -8.6207, "lon": 115.0865 },
+            { "name": "Uluwatu Temple", "subtitle": "Uluwatu", "category": "Temple", "tagline": "Clifftop over the Indian Ocean, kecak fire dance at dusk", "tags": ["Scenic", "Aesthetic"], "lat": -8.8291, "lon": 115.0849 },
+            { "name": "Tirta Empul", "subtitle": "Tampaksiring", "category": "Temple", "tagline": "Holy spring water temple, sacred bathing ritual", "tags": ["Scenic", "Hidden gem"], "lat": -8.4154, "lon": 115.3157 },
+            { "name": "Tegalalang Rice Terraces", "subtitle": "Ubud", "category": "Park", "tagline": "Subak irrigation system, sunrise walk before the crowds", "tags": ["Scenic", "Aesthetic"], "lat": -8.4322, "lon": 115.2775 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dubai",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Cafés & brunch spots",
+          "places": [
+            { "name": "Tom&Serg", "subtitle": "Al Quoz", "category": "Cafe", "tagline": "Dubai's specialty coffee pioneer, industrial warehouse setting", "tags": ["Great coffee", "Aesthetic"], "lat": 25.1560, "lon": 55.2326 },
+            { "name": "Comptoir 102", "subtitle": "Jumeirah Beach Road", "category": "Cafe", "tagline": "Organic café and concept store, Jumeirah institution", "tags": ["Aesthetic", "Good staff"], "lat": 25.2000, "lon": 55.2484 },
+            { "name": "Nightjar Coffee", "subtitle": "Jumeirah", "category": "Cafe", "tagline": "Specialty roastery, best flat whites in Dubai", "tags": ["Great coffee", "Best to work"], "lat": 25.1972, "lon": 55.2537 },
+            { "name": "Wild & The Moon", "subtitle": "DIFC", "category": "Cafe", "tagline": "Plant-based all-day café, cold-pressed juices", "tags": ["Aesthetic", "Great coffee"], "lat": 25.2073, "lon": 55.2789 }
+          ]
+        },
+        {
+          "title": "Restaurants worth the reservation",
+          "places": [
+            { "name": "Tresind Studio", "subtitle": "DIFC", "category": "Restaurant", "tagline": "Molecular Indian cuisine, genuinely exciting tasting menu", "tags": ["Aesthetic", "Good staff"], "lat": 25.2073, "lon": 55.2789 },
+            { "name": "3Fils", "subtitle": "Jumeirah Fishing Harbour", "category": "Restaurant", "tagline": "Tiny Japanese-influenced seafood, consistently brilliant", "tags": ["Hidden gem", "Good staff"], "lat": 25.2156, "lon": 55.2580 },
+            { "name": "Logma", "subtitle": "City Walk", "category": "Restaurant", "tagline": "Emirati classics done right, rare in the city", "tags": ["Hidden gem", "Good staff"], "lat": 25.1972, "lon": 55.2537 },
+            { "name": "Zuma", "subtitle": "DIFC", "category": "Restaurant", "tagline": "Japanese robata, Dubai's enduring power-lunch spot", "tags": ["Good staff", "Great vibes"], "lat": 25.2073, "lon": 55.2789 }
+          ]
+        },
+        {
+          "title": "Bars & rooftop nights",
+          "places": [
+            { "name": "Iris Dubai", "subtitle": "Meydan", "category": "Bar", "tagline": "Outdoor rooftop, Burj Khalifa in the distance", "tags": ["Aesthetic", "Great vibes"], "lat": 25.1688, "lon": 55.3103 },
+            { "name": "Siddharta Lounge", "subtitle": "Grosvenor House, Marina", "category": "Bar", "tagline": "Marina waterfront bar, sunset drinks, great atmosphere", "tags": ["Scenic", "Great vibes"], "lat": 25.0802, "lon": 55.1403 },
+            { "name": "Vault at Voco", "subtitle": "Sheikh Zayed Road", "category": "Bar", "tagline": "71st floor, 360-degree views, best bar perch in the city", "tags": ["Aesthetic", "Scenic"], "lat": 25.1972, "lon": 55.2744 }
+          ]
+        },
+        {
+          "title": "Souks & old Dubai",
+          "places": [
+            { "name": "Gold Souk", "subtitle": "Deira", "category": "Market", "tagline": "World's largest gold market, overwhelming in the best way", "tags": ["Hidden gem"], "lat": 25.2724, "lon": 55.3088 },
+            { "name": "Spice Souk", "subtitle": "Deira", "category": "Market", "tagline": "Saffron, frankincense, dried limes — smells like another era", "tags": ["Hidden gem", "Aesthetic"], "lat": 25.2686, "lon": 55.3094 },
+            { "name": "Al Fahidi Historical Neighbourhood", "subtitle": "Bur Dubai", "category": "Neighbourhood", "tagline": "Wind towers, narrow lanes, the old Dubai that survived", "tags": ["Aesthetic", "Hidden gem"], "lat": 25.2633, "lon": 55.2967 },
+            { "name": "Dubai Creek Abra", "subtitle": "Bur Dubai", "category": "Neighbourhood", "tagline": "ₐ1 wooden water taxi crossing the Creek, five minutes of magic", "tags": ["Hidden gem", "Scenic"], "lat": 25.2633, "lon": 55.3047 }
+          ]
+        },
+        {
+          "title": "Waterfronts & open air",
+          "places": [
+            { "name": "Kite Beach", "subtitle": "Jumeirah", "category": "Park", "tagline": "Burj Khalifa views while swimming, kite surfers at dusk", "tags": ["Scenic", "Great vibes"], "lat": 25.1847, "lon": 55.2301 },
+            { "name": "The Beach, JBR", "subtitle": "Jumeirah Beach Residence", "category": "Park", "tagline": "Open-air strip, outdoor cinema, beach access", "tags": ["Great vibes", "Scenic"], "lat": 25.0786, "lon": 55.1302 },
+            { "name": "Alserkal Avenue", "subtitle": "Al Quoz", "category": "Neighbourhood", "tagline": "Arts district in a warehouse zone, galleries and studios", "tags": ["Aesthetic", "Hidden gem"], "lat": 25.1560, "lon": 55.2326 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Melbourne",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Specialty coffee & café culture",
+          "places": [
+            { "name": "Seven Seeds", "subtitle": "Carlton", "category": "Cafe", "tagline": "The roastery that put Melbourne coffee on the map", "tags": ["Great coffee", "Aesthetic"], "lat": -37.8012, "lon": 144.9672 },
+            { "name": "Proud Mary", "subtitle": "Collingwood", "category": "Cafe", "tagline": "Farm-to-cup, massive brunch menu, perpetual queue", "tags": ["Great coffee", "Great vibes"], "lat": -37.8000, "lon": 144.9867 },
+            { "name": "Patricia Coffee Brewers", "subtitle": "CBD", "category": "Cafe", "tagline": "Standing room only, one of Australia's best espressos", "tags": ["Great coffee"], "lat": -37.8136, "lon": 144.9631 },
+            { "name": "ST. ALi", "subtitle": "South Melbourne", "category": "Cafe", "tagline": "Specialty coffee pioneer, warehouse setting, all-day menu", "tags": ["Great coffee", "Aesthetic"], "lat": -37.8309, "lon": 144.9568 },
+            { "name": "Market Lane Coffee", "subtitle": "Prahran Market", "category": "Cafe", "tagline": "Inside the market, best single-origin filters in the city", "tags": ["Great coffee", "Hidden gem"], "lat": -37.8452, "lon": 144.9919 }
+          ]
+        },
+        {
+          "title": "Restaurants & laneway dining",
+          "places": [
+            { "name": "Tipo 00", "subtitle": "CBD", "category": "Restaurant", "tagline": "Pasta done with Italian rigour, always worth the queue", "tags": ["Good staff"], "lat": -37.8136, "lon": 144.9631 },
+            { "name": "Embla", "subtitle": "CBD", "category": "Restaurant", "tagline": "Wood-fire cooking, natural wine, the best of modern Melbourne", "tags": ["Aesthetic", "Good staff"], "lat": -37.8136, "lon": 144.9631 },
+            { "name": "Supernormal", "subtitle": "Flinders Lane", "category": "Restaurant", "tagline": "Pan-Asian all-day, lobster rolls, always buzzing", "tags": ["Great vibes", "Good staff"], "lat": -37.8161, "lon": 144.9690 },
+            { "name": "Cumulus Inc.", "subtitle": "Flinders Lane", "category": "Restaurant", "tagline": "Andrew McConnell's benchmark, breakfast through to late", "tags": ["Good staff", "Aesthetic"], "lat": -37.8161, "lon": 144.9690 },
+            { "name": "Anchovy", "subtitle": "Richmond", "category": "Restaurant", "tagline": "Vietnamese-French tasting menu, small and exceptional", "tags": ["Hidden gem", "Good staff"], "lat": -37.8240, "lon": 145.0009 }
+          ]
+        },
+        {
+          "title": "Bars & natural wine",
+          "places": [
+            { "name": "Bar Liberty", "subtitle": "Fitzroy North", "category": "Bar", "tagline": "Natural wine bar with a kitchen, neighbourhood favourite", "tags": ["Aesthetic", "Good staff"], "lat": -37.7886, "lon": 144.9793 },
+            { "name": "Heartattack and Vine", "subtitle": "CBD", "category": "Bar", "tagline": "Honest wine bar, European small plates, no pretension", "tags": ["Good staff", "Great vibes"], "lat": -37.8136, "lon": 144.9631 },
+            { "name": "Gimlet", "subtitle": "CBD", "category": "Bar", "tagline": "Grand dining room bar, Andrew McConnell's most elegant", "tags": ["Aesthetic", "Good staff"], "lat": -37.8136, "lon": 144.9631 },
+            { "name": "The Everleigh", "subtitle": "Fitzroy", "category": "Bar", "tagline": "Pre-Prohibition cocktails, crystal coupes, serious craft", "tags": ["Aesthetic", "Hidden gem"], "lat": -37.7989, "lon": 144.9793 }
+          ]
+        },
+        {
+          "title": "Parks & gardens",
+          "places": [
+            { "name": "Royal Botanic Gardens", "subtitle": "South Yarra", "category": "Park", "tagline": "36 hectares, lake, observatory — Melbourne's best slow walk", "tags": ["Scenic"], "lat": -37.8309, "lon": 144.9797 },
+            { "name": "Edinburgh Gardens", "subtitle": "North Fitzroy", "category": "Park", "tagline": "Weekend cricket, BYO picnics, North Fitzroy village feel", "tags": ["Scenic", "Great vibes"], "lat": -37.7886, "lon": 144.9793 },
+            { "name": "Fitzroy Gardens", "subtitle": "East Melbourne", "category": "Park", "tagline": "Elm-lined avenues, Captain Cook's cottage, very Melbourne", "tags": ["Scenic", "Aesthetic"], "lat": -37.8136, "lon": 144.9797 }
+          ]
+        },
+        {
+          "title": "Bookstores & culture",
+          "places": [
+            { "name": "Readings Carlton", "subtitle": "Lygon Street", "category": "Books", "tagline": "Melbourne's best independent bookshop, outstanding events", "tags": ["Aesthetic"], "lat": -37.8012, "lon": 144.9672 },
+            { "name": "Hill of Content", "subtitle": "CBD", "category": "Books", "tagline": "Tiny, curated, literary fiction and poetry specialists", "tags": ["Hidden gem", "Aesthetic"], "lat": -37.8136, "lon": 144.9631 },
+            { "name": "NGV International", "subtitle": "St Kilda Road", "category": "Museum", "tagline": "Largest art museum in Australia, free permanent collection", "tags": ["Aesthetic"], "lat": -37.8221, "lon": 144.9690 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amsterdam",
+      "aliases": [],
+      "updated": "2026-06-09",
+      "sections": [
+        {
+          "title": "Brown cafés & koffie",
+          "places": [
+            { "name": "Café 't Smalle", "subtitle": "Jordaan", "category": "Bar", "tagline": "18th-century proeflokaal on a Jordaan canal. Perfect.", "tags": ["Aesthetic", "Hidden gem"], "lat": 52.3745, "lon": 4.8825 },
+            { "name": "Café de Dokter", "subtitle": "Centrum", "category": "Bar", "tagline": "Smallest bar in Amsterdam, whisky specialist since 1798", "tags": ["Hidden gem"], "lat": 52.3702, "lon": 4.8952 },
+            { "name": "Lot Sixty One Coffee Roasters", "subtitle": "Jordaan", "category": "Cafe", "tagline": "Amsterdam's best specialty roastery, serious filter coffee", "tags": ["Great coffee"], "lat": 52.3745, "lon": 4.8825 },
+            { "name": "Scandinavian Embassy", "subtitle": "De Pijp", "category": "Cafe", "tagline": "Nordic specialty coffee, Danish smørrebrød, excellent", "tags": ["Great coffee", "Aesthetic"], "lat": 52.3528, "lon": 4.8972 },
+            { "name": "White Label Coffee", "subtitle": "Jordaan", "category": "Cafe", "tagline": "Standing espresso bar, neighbourhood regulars only feel", "tags": ["Great coffee", "Hidden gem"], "lat": 52.3745, "lon": 4.8825 }
+          ]
+        },
+        {
+          "title": "Restaurants & neighbourhood gems",
+          "places": [
+            { "name": "De Kas", "subtitle": "Frankendael Park", "category": "Restaurant", "tagline": "Greenhouse restaurant, grows its own produce, stunning", "tags": ["Aesthetic", "Good staff"], "lat": 52.3480, "lon": 4.9376 },
+            { "name": "Brouwerij 't IJ", "subtitle": "Oost", "category": "Brewery", "tagline": "Craft brewery in a windmill. The only Amsterdam experience.", "tags": ["Aesthetic", "Great vibes"], "lat": 52.3625, "lon": 4.9283 },
+            { "name": "Restaurant Scheepskameel", "subtitle": "Centrum", "category": "Restaurant", "tagline": "Dutch pantry cooking, canal views, genuine warmth", "tags": ["Good staff", "Aesthetic"], "lat": 52.3768, "lon": 4.9056 },
+            { "name": "Bak", "subtitle": "Westerdok", "category": "Restaurant", "tagline": "Waterfront farm-to-table, simple and brilliant", "tags": ["Aesthetic", "Hidden gem"], "lat": 52.3879, "lon": 4.8890 }
+          ]
+        },
+        {
+          "title": "Bars & jenever stops",
+          "places": [
+            { "name": "Wynand Fockink", "subtitle": "Centrum", "category": "Bar", "tagline": "Tasting house since 1679. Jenever straight, no mixers.", "tags": ["Hidden gem", "Aesthetic"], "lat": 52.3730, "lon": 4.8987 },
+            { "name": "Tales & Spirits", "subtitle": "Centrum", "category": "Bar", "tagline": "Serious cocktail bar, gin focus, intimate booths", "tags": ["Aesthetic", "Good staff"], "lat": 52.3730, "lon": 4.8960 },
+            { "name": "Hiding in Plain Sight", "subtitle": "Centrum", "category": "Bar", "tagline": "Speakeasy feel, rotating seasonal menu, no loud music", "tags": ["Aesthetic", "Hidden gem"], "lat": 52.3702, "lon": 4.9010 },
+            { "name": "Door 74", "subtitle": "Centrum", "category": "Bar", "tagline": "Ring to enter, reservation only, Amsterdam's best bar", "tags": ["Hidden gem", "Good staff"], "lat": 52.3660, "lon": 4.8980 }
+          ]
+        },
+        {
+          "title": "Parks & canal walks",
+          "places": [
+            { "name": "Vondelpark", "subtitle": "Oud-West", "category": "Park", "tagline": "The park. Open-air concerts in summer, joggers always.", "tags": ["Scenic", "Great vibes"], "lat": 52.3584, "lon": 4.8699 },
+            { "name": "Westerpark", "subtitle": "Westerpark", "category": "Park", "tagline": "Former gasworks turned culture park, outdoor cinema in summer", "tags": ["Scenic", "Great vibes"], "lat": 52.3879, "lon": 4.8730 },
+            { "name": "Oosterpark", "subtitle": "Oost", "category": "Park", "tagline": "East Amsterdam's quiet park, ducks, locals, no fuss", "tags": ["Scenic", "Hidden gem"], "lat": 52.3583, "lon": 4.9176 },
+            { "name": "NDSM Wharf", "subtitle": "Amsterdam Noord", "category": "Neighbourhood", "tagline": "Former shipyard, studios and bars, takes the free ferry", "tags": ["Aesthetic", "Hidden gem"], "lat": 52.4027, "lon": 4.8993 }
+          ]
+        },
+        {
+          "title": "Bookstores & culture",
+          "places": [
+            { "name": "Mendo", "subtitle": "Centrum", "category": "Books", "tagline": "Design and art book shop, the best-curated in Amsterdam", "tags": ["Aesthetic", "Hidden gem"], "lat": 52.3702, "lon": 4.8952 },
+            { "name": "American Book Center", "subtitle": "Spui", "category": "Books", "tagline": "Largest English-language bookshop in Europe", "tags": ["Hidden gem"], "lat": 52.3687, "lon": 4.8922 },
+            { "name": "FOAM Photography Museum", "subtitle": "Keizersgracht", "category": "Museum", "tagline": "Canal-side photography museum, always worth checking", "tags": ["Aesthetic"], "lat": 52.3625, "lon": 4.8980 },
+            { "name": "EYE Film Museum", "subtitle": "Amsterdam Noord", "category": "Museum", "tagline": "Stunning Delugan Meissl building, free library, ferry view", "tags": ["Aesthetic", "Hidden gem"], "lat": 52.3840, "lon": 4.9010 }
+          ]
+        }
+      ]
+    }
+  ]
+}
