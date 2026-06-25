@@ -216,6 +216,18 @@
               ],
               "lat": 13.0057,
               "lon": 77.5693
+            },
+            {
+              "name": "Umesh Refreshments",
+              "subtitle": "Domlur",
+              "category": "Restaurant",
+              "tagline": "Cult dosa-and-omelette joint, cash only",
+              "tags": [
+                "Iconic",
+                "Worth the queue"
+              ],
+              "lat": 12.9685,
+              "lon": 77.641
             }
           ]
         },
@@ -256,17 +268,6 @@
               ],
               "lat": 12.9756,
               "lon": 77.601
-            },
-            {
-              "name": "The Fatty Bao",
-              "subtitle": "Indiranagar",
-              "category": "Restaurant",
-              "tagline": "Asian small plates, weekend dim sum",
-              "tags": [
-                "Good staff"
-              ],
-              "lat": 12.971,
-              "lon": 77.6402
             },
             {
               "name": "Smoke House Deli",
