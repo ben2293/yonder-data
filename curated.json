@@ -586,6 +586,18 @@
               ],
               "lat": 12.934,
               "lon": 77.6189
+            },
+            {
+              "name": "Beku",
+              "subtitle": "JP Nagar 3rd Phase",
+              "category": "Cafe",
+              "tagline": "Bookstore-cafe-bakery; 'I want' in Kannada",
+              "tags": [
+                "Books",
+                "Best to work"
+              ],
+              "lat": 12.9106,
+              "lon": 77.5966
             }
           ]
         }
