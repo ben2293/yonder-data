@@ -601,6 +601,184 @@
             }
           ]
         }
+      ],
+      "areas": [
+        {
+          "name": "Indiranagar",
+          "places": [
+            {
+              "name": "Maverick & Farmer",
+              "subtitle": "Indiranagar",
+              "category": "Cafe",
+              "lat": 12.972,
+              "lon": 77.6398
+            },
+            {
+              "name": "The Kind Roastery & Brew Room",
+              "subtitle": "Indiranagar",
+              "category": "Cafe",
+              "lat": 12.9748,
+              "lon": 77.6387
+            },
+            {
+              "name": "Anama Coffee",
+              "subtitle": "5th Main, 1st Stage",
+              "category": "Cafe",
+              "lat": 12.9778,
+              "lon": 77.6375
+            },
+            {
+              "name": "Ainmane Cafe & Specialty Coffee",
+              "subtitle": "9th Main, HAL 2nd Stage",
+              "category": "Cafe",
+              "lat": 12.9691,
+              "lon": 77.6393
+            },
+            {
+              "name": "Glen's Bakehouse",
+              "subtitle": "Indiranagar",
+              "category": "Bakery",
+              "lat": 12.9745,
+              "lon": 77.6419
+            },
+            {
+              "name": "Toit Brewpub",
+              "subtitle": "100ft Road",
+              "category": "Brewery",
+              "lat": 12.9712,
+              "lon": 77.6411
+            },
+            {
+              "name": "The Fatty Bao",
+              "subtitle": "Indiranagar",
+              "category": "Restaurant",
+              "lat": 12.971,
+              "lon": 77.6402
+            },
+            {
+              "name": "Smoke House Deli",
+              "subtitle": "Indiranagar",
+              "category": "Restaurant",
+              "lat": 12.9712,
+              "lon": 77.6388
+            },
+            {
+              "name": "Sly Granny",
+              "subtitle": "12th Main, HAL 2nd Stage",
+              "category": "Restaurant",
+              "lat": 12.9718,
+              "lon": 77.6415
+            },
+            {
+              "name": "Watson's",
+              "subtitle": "100 Feet Road",
+              "category": "Bar",
+              "lat": 12.9728,
+              "lon": 77.643
+            }
+          ]
+        },
+        {
+          "name": "MG Road & Church Street",
+          "places": [
+            {
+              "name": "Koshy's",
+              "subtitle": "St. Marks Road",
+              "category": "Cafe",
+              "lat": 12.9719,
+              "lon": 77.6004
+            },
+            {
+              "name": "Empire Restaurant",
+              "subtitle": "34 Church Street",
+              "category": "Restaurant",
+              "lat": 12.9743,
+              "lon": 77.6092
+            },
+            {
+              "name": "The Permit Room",
+              "subtitle": "Church Street junction",
+              "category": "Bar",
+              "lat": 12.9756,
+              "lon": 77.6076
+            },
+            {
+              "name": "Arbor Brewing Company",
+              "subtitle": "Magrath Road",
+              "category": "Brewery",
+              "lat": 12.9716,
+              "lon": 77.6181
+            },
+            {
+              "name": "ZLB 23",
+              "subtitle": "Vittal Mallya Road",
+              "category": "Bar",
+              "lat": 12.9711,
+              "lon": 77.5962
+            },
+            {
+              "name": "Cafe Noir",
+              "subtitle": "UB City",
+              "category": "Restaurant",
+              "lat": 12.9722,
+              "lon": 77.5963
+            },
+            {
+              "name": "Olive Beach",
+              "subtitle": "Wood Street",
+              "category": "Restaurant",
+              "lat": 12.9756,
+              "lon": 77.601
+            },
+            {
+              "name": "Blossom Book House",
+              "subtitle": "84/6 Church Street",
+              "category": "Books",
+              "lat": 12.9758,
+              "lon": 77.6084
+            },
+            {
+              "name": "Bookworm",
+              "subtitle": "Church Street",
+              "category": "Books",
+              "lat": 12.9748,
+              "lon": 77.6081
+            },
+            {
+              "name": "Higginbothams",
+              "subtitle": "MG Road",
+              "category": "Books",
+              "lat": 12.9756,
+              "lon": 77.6093
+            }
+          ]
+        },
+        {
+          "name": "Malleshwaram",
+          "places": [
+            {
+              "name": "CTR (Central Tiffin Room)",
+              "subtitle": "Malleshwaram",
+              "category": "Restaurant",
+              "lat": 13.0036,
+              "lon": 77.5719
+            },
+            {
+              "name": "Sankey Tank",
+              "subtitle": "Malleshwaram",
+              "category": "Park",
+              "lat": 13.0073,
+              "lon": 77.5736
+            },
+            {
+              "name": "Indira Gandhi Musical Fountain",
+              "subtitle": "Sankey Road",
+              "category": "Park",
+              "lat": 13.0008,
+              "lon": 77.5743
+            }
+          ]
+        }
       ]
     },
     {
