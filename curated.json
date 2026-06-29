@@ -593,6 +593,18 @@
               ],
               "lat": 12.918867,
               "lon": 77.645991
+            },
+            {
+              "name": "Veena Stores",
+              "subtitle": "Margosa Road, Malleshwaram",
+              "category": "Restaurant",
+              "tagline": "Margosa Road institution — buttery idli, crisp benne dosa, eternal queue.",
+              "tags": [
+                "Benne dosa",
+                "Idli"
+              ],
+              "lat": 13.0056696,
+              "lon": 77.5692888
             }
           ]
         }
