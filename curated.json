@@ -326,29 +326,6 @@
               "lon": 77.6092
             },
             {
-              "name": "Koshy's",
-              "subtitle": "St. Marks Road",
-              "category": "Cafe",
-              "tagline": "Old guard since 1940, breakfast at midnight",
-              "tags": [
-                "Aesthetic",
-                "Great coffee"
-              ],
-              "lat": 12.9719,
-              "lon": 77.6004
-            },
-            {
-              "name": "Shivaji Military Hotel",
-              "subtitle": "Jayanagar",
-              "category": "Restaurant",
-              "tagline": "Donne biryani done right",
-              "tags": [
-                "Hidden gem"
-              ],
-              "lat": 12.9223,
-              "lon": 77.591
-            },
-            {
               "name": "Lakeview Milk Bar",
               "subtitle": "MG Road",
               "category": "Cafe",
