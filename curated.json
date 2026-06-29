@@ -371,6 +371,18 @@
               ],
               "lat": 12.9817985,
               "lon": 77.6409705
+            },
+            {
+              "name": "Chai Sutta Bar",
+              "subtitle": "HSR Layout",
+              "category": "Cafe",
+              "tagline": "Kulhad chai and quick bites till 3 AM.",
+              "tags": [
+                "Chai",
+                "Open late"
+              ],
+              "lat": 12.919977,
+              "lon": 77.650865
             }
           ]
         },
