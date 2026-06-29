@@ -360,6 +360,30 @@
               ],
               "lat": 12.919977,
               "lon": 77.650865
+            },
+            {
+              "name": "Art of Delight",
+              "subtitle": "Residency Road",
+              "category": "Cafe",
+              "tagline": "Late-night dessert runs — artisanal ice cream and sugar highs.",
+              "tags": [
+                "Dessert",
+                "Ice cream"
+              ],
+              "lat": 12.9737,
+              "lon": 77.6073
+            },
+            {
+              "name": "Churroland",
+              "subtitle": "Koramangala 5th Block",
+              "category": "Cafe",
+              "tagline": "Churros and chocolate dips when the sweet tooth strikes.",
+              "tags": [
+                "Churros",
+                "Dessert"
+              ],
+              "lat": 12.935,
+              "lon": 77.6145
             }
           ]
         },
