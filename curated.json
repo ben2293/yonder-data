@@ -155,83 +155,6 @@
           ]
         },
         {
-          "title": "Dosa to die for",
-          "places": [
-            {
-              "name": "CTR (Central Tiffin Room)",
-              "subtitle": "Malleshwaram",
-              "category": "Restaurant",
-              "tagline": "Benne masala dosa worth queueing",
-              "tags": [
-                "Iconic",
-                "Worth the queue"
-              ],
-              "lat": 13.0036,
-              "lon": 77.5719
-            },
-            {
-              "name": "Vidyarthi Bhavan",
-              "subtitle": "Gandhi Bazaar",
-              "category": "Restaurant",
-              "tagline": "Crispy benne dosa institution",
-              "tags": [
-                "Iconic",
-                "Worth the queue"
-              ],
-              "lat": 12.9426,
-              "lon": 77.5722
-            },
-            {
-              "name": "Brahmins' Coffee Bar",
-              "subtitle": "Basavanagudi",
-              "category": "Restaurant",
-              "tagline": "Idli + dosa + filter coffee, queue from 7am",
-              "tags": [
-                "Iconic",
-                "Breakfast"
-              ],
-              "lat": 12.941,
-              "lon": 77.5723
-            },
-            {
-              "name": "Pecos",
-              "subtitle": "Church Street",
-              "category": "Restaurant",
-              "tagline": "Chicken dosa and rock-music pub legend",
-              "tags": [
-                "Chicken dosa",
-                "Old favourite"
-              ],
-              "lat": 12.9737,
-              "lon": 77.6073
-            },
-            {
-              "name": "Veena Stores",
-              "subtitle": "Malleshwaram",
-              "category": "Restaurant",
-              "tagline": "Idli-vada counter classic; come hungry",
-              "tags": [
-                "Iconic",
-                "Breakfast"
-              ],
-              "lat": 13.0057,
-              "lon": 77.5693
-            },
-            {
-              "name": "Umesh Refreshments",
-              "subtitle": "Domlur",
-              "category": "Restaurant",
-              "tagline": "Cult dosa-and-omelette joint, cash only",
-              "tags": [
-                "Iconic",
-                "Worth the queue"
-              ],
-              "lat": 12.9685,
-              "lon": 77.641
-            }
-          ]
-        },
-        {
           "title": "Brunch worth the wait",
           "places": [
             {
@@ -270,6 +193,17 @@
               "lon": 77.601
             },
             {
+              "name": "The Fatty Bao",
+              "subtitle": "Indiranagar",
+              "category": "Restaurant",
+              "tagline": "Asian small plates, weekend dim sum",
+              "tags": [
+                "Good staff"
+              ],
+              "lat": 12.971,
+              "lon": 77.6402
+            },
+            {
               "name": "Smoke House Deli",
               "subtitle": "Indiranagar",
               "category": "Restaurant",
@@ -302,42 +236,6 @@
               ],
               "lat": 12.9718,
               "lon": 77.6415
-            },
-            {
-              "name": "Muro",
-              "subtitle": "Museum Road",
-              "category": "Restaurant",
-              "tagline": "Pan-Asian kitchen; weekend Breakfast Club brunch",
-              "tags": [
-                "Weekend brunch",
-                "Inventive plates"
-              ],
-              "lat": 12.9746,
-              "lon": 77.6031
-            },
-            {
-              "name": "154 Breakfast Club",
-              "subtitle": "Koramangala",
-              "category": "Cafe",
-              "tagline": "All-day breakfasts, easy weekend mornings",
-              "tags": [
-                "All-day breakfast",
-                "Weekend brunch"
-              ],
-              "lat": 12.9333,
-              "lon": 77.6271
-            },
-            {
-              "name": "The Hole in the Wall Cafe",
-              "subtitle": "Koramangala",
-              "category": "Cafe",
-              "tagline": "Big breakfasts, long queues, no-fuss classic",
-              "tags": [
-                "Big breakfast",
-                "Worth the queue"
-              ],
-              "lat": 12.9348,
-              "lon": 77.6255
             }
           ]
         },
@@ -428,28 +326,61 @@
               "lon": 77.6092
             },
             {
-              "name": "Savoury",
-              "subtitle": "Frazer Town",
-              "category": "Restaurant",
-              "tagline": "Kebabs and rolls, Mosque Road late-night staple",
+              "name": "Koshy's",
+              "subtitle": "St. Marks Road",
+              "category": "Cafe",
+              "tagline": "Old guard since 1940, breakfast at midnight",
               "tags": [
-                "Open late",
-                "Kebabs"
+                "Aesthetic",
+                "Great coffee"
               ],
-              "lat": 12.9995,
-              "lon": 77.6158
+              "lat": 12.9719,
+              "lon": 77.6004
             },
             {
-              "name": "Meghana Foods",
-              "subtitle": "Residency Road",
+              "name": "Shivaji Military Hotel",
+              "subtitle": "Jayanagar",
               "category": "Restaurant",
-              "tagline": "Andhra biryani, served well past midnight",
+              "tagline": "Donne biryani done right",
               "tags": [
-                "Open late",
-                "Biryani"
+                "Hidden gem"
               ],
-              "lat": 12.9728,
-              "lon": 77.6092
+              "lat": 12.9223,
+              "lon": 77.591
+            },
+            {
+              "name": "CTR (Central Tiffin Room)",
+              "subtitle": "Malleshwaram",
+              "category": "Restaurant",
+              "tagline": "Benne masala dosa worth queueing",
+              "tags": [
+                "Hidden gem",
+                "Good staff"
+              ],
+              "lat": 13.0036,
+              "lon": 77.5719
+            },
+            {
+              "name": "Brahmins' Coffee Bar",
+              "subtitle": "Basavanagudi",
+              "category": "Cafe",
+              "tagline": "Idli + chutney, queue starts at 7am",
+              "tags": [
+                "Great coffee"
+              ],
+              "lat": 12.941,
+              "lon": 77.5723
+            },
+            {
+              "name": "Vidyarthi Bhavan",
+              "subtitle": "Gandhi Bazaar",
+              "category": "Restaurant",
+              "tagline": "Crispy benne dosa institution",
+              "tags": [
+                "Hidden gem"
+              ],
+              "lat": 12.9426,
+              "lon": 77.5722
             }
           ]
         },
@@ -501,30 +432,6 @@
               ],
               "lat": 12.9735,
               "lon": 77.6358
-            },
-            {
-              "name": "Spirit Forward",
-              "subtitle": "Lavelle Road",
-              "category": "Bar",
-              "tagline": "Cocktail-led bar, serious drinks list",
-              "tags": [
-                "Cocktails",
-                "Date night"
-              ],
-              "lat": 12.9747,
-              "lon": 77.5993
-            },
-            {
-              "name": "Bob's Bar",
-              "subtitle": "Indiranagar",
-              "category": "Bar",
-              "tagline": "No-frills neighbourhood bar, cheap and cheerful",
-              "tags": [
-                "Easy-going",
-                "Local"
-              ],
-              "lat": 12.9716,
-              "lon": 77.639
             }
           ]
         },
@@ -586,18 +493,23 @@
               ],
               "lat": 12.934,
               "lon": 77.6189
-            },
+            }
+          ]
+        },
+        {
+          "title": "Dosa to die for",
+          "places": [
             {
-              "name": "Beku",
-              "subtitle": "JP Nagar 3rd Phase",
-              "category": "Cafe",
-              "tagline": "Bookstore-cafe-bakery; 'I want' in Kannada",
+              "name": "Taaza Thindi",
+              "subtitle": "Jayanagar 4th Block",
+              "category": "Restaurant",
+              "tagline": "Crisp benne dosa, no frills, no seating — pure Jayanagar legend.",
               "tags": [
-                "Books",
-                "Best to work"
+                "Benne dosa",
+                "Tiffin"
               ],
-              "lat": 12.9106,
-              "lon": 77.5966
+              "lat": 12.923004,
+              "lon": 77.593338
             }
           ]
         }
@@ -893,6 +805,18 @@
               ],
               "lat": 12.90888,
               "lon": 77.6523416
+            },
+            {
+              "name": "Babai Tiffins",
+              "subtitle": "HSR Layout",
+              "category": "Restaurant",
+              "tagline": "Andhra tiffins done fast and proper — the dosa hits.",
+              "tags": [
+                "Andhra",
+                "Tiffin"
+              ],
+              "lat": 12.918867,
+              "lon": 77.645991
             }
           ]
         },
@@ -1001,6 +925,18 @@
               ],
               "lat": 12.9395026,
               "lon": 77.5846124
+            },
+            {
+              "name": "Taaza Thindi",
+              "subtitle": "Jayanagar 4th Block",
+              "category": "Restaurant",
+              "tagline": "Crisp benne dosa, no frills, no seating — pure Jayanagar legend.",
+              "tags": [
+                "Benne dosa",
+                "Tiffin"
+              ],
+              "lat": 12.923004,
+              "lon": 77.593338
             }
           ]
         },
