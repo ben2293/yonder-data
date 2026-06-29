@@ -686,6 +686,30 @@
               ],
               "lat": 12.9790679,
               "lon": 77.6440136
+            },
+            {
+              "name": "Paper & Pie",
+              "subtitle": "Thippasandra",
+              "category": "Cafe",
+              "tagline": "Coffee-date, deep-work, or just-chill — it does all three.",
+              "tags": [
+                "Coffee",
+                "Work-friendly"
+              ],
+              "lat": 12.9810313,
+              "lon": 77.6409712
+            },
+            {
+              "name": "Deliciae",
+              "subtitle": "HAL 2nd Stage",
+              "category": "Bakery",
+              "tagline": "Sweet-tooth heaven — cakes that ruin other cakes.",
+              "tags": [
+                "Cakes",
+                "Dessert"
+              ],
+              "lat": 12.9666289,
+              "lon": 77.6483443
             }
           ]
         },
@@ -787,6 +811,200 @@
           ]
         },
         {
+          "name": "HSR Layout",
+          "places": [
+            {
+              "name": "Teatings Cafe",
+              "subtitle": "Sector 6",
+              "category": "Cafe",
+              "tagline": "Rising star — fantastic food and a tea menu to match.",
+              "tags": [
+                "Tea",
+                "Food"
+              ],
+              "lat": 12.9130125,
+              "lon": 77.6354074
+            },
+            {
+              "name": "Beanlore Coffee Roasters",
+              "subtitle": "Sector 4",
+              "category": "Cafe",
+              "tagline": "Great coffee and a laptop-friendly hum.",
+              "tags": [
+                "Coffee",
+                "Work-friendly"
+              ],
+              "lat": 12.9123548,
+              "lon": 77.6417639
+            },
+            {
+              "name": "Mara Coffee",
+              "subtitle": "Sector 2",
+              "category": "Cafe",
+              "tagline": "Cute little spot made for coffee dates.",
+              "tags": [
+                "Coffee",
+                "Dates"
+              ],
+              "lat": 12.9079027,
+              "lon": 77.6475236
+            },
+            {
+              "name": "ddmmyy",
+              "subtitle": "HSR Layout",
+              "category": "Cafe",
+              "tagline": "Doesn't matter the day, month or year — just go.",
+              "tags": [
+                "Cafe"
+              ],
+              "lat": 12.9094373,
+              "lon": 77.6447096
+            },
+            {
+              "name": "BLR Brewing Co",
+              "subtitle": "HSR Layout",
+              "category": "Brewery",
+              "tagline": "Chug a beer, take a break from the hustle.",
+              "tags": [
+                "Beer"
+              ],
+              "lat": 12.9123236,
+              "lon": 77.6416039
+            },
+            {
+              "name": "Ink & Oak",
+              "subtitle": "HSR Layout",
+              "category": "Cafe",
+              "tagline": "Cafe plus bookstore — you'll fall in love (again).",
+              "tags": [
+                "Books",
+                "Coffee"
+              ],
+              "lat": 12.9140372,
+              "lon": 77.6422501
+            },
+            {
+              "name": "Bunco",
+              "subtitle": "HSR Layout",
+              "category": "Bakery",
+              "tagline": "Breads, doughs, pastries, and everything in between.",
+              "tags": [
+                "Bakes"
+              ],
+              "lat": 12.90888,
+              "lon": 77.6523416
+            }
+          ]
+        },
+        {
+          "name": "Jayanagar",
+          "places": [
+            {
+              "name": "Kinya Coffee",
+              "subtitle": "Jayanagar",
+              "category": "Cafe",
+              "tagline": "The reel-famous pour everyone's chasing.",
+              "tags": [
+                "Coffee"
+              ],
+              "lat": 12.9052155,
+              "lon": 77.5956651
+            },
+            {
+              "name": "Katte Kulture",
+              "subtitle": "18th Main, 4T Block",
+              "category": "Cafe",
+              "tagline": "Cosy neighbourhood hangout that locals guard.",
+              "tags": [
+                "Coffee"
+              ],
+              "lat": 12.9258756,
+              "lon": 77.5894258
+            },
+            {
+              "name": "Nenapu",
+              "subtitle": "Jayanagar",
+              "category": "Cafe",
+              "tagline": "Their cinnamon swirl is to die for (and die I have, many times).",
+              "tags": [
+                "Cinnamon roll"
+              ],
+              "lat": 12.906119,
+              "lon": 77.594403
+            },
+            {
+              "name": "Sypp Coffee",
+              "subtitle": "Jayanagar",
+              "category": "Cafe",
+              "tagline": "Premium beans, late hours, easy on the wallet.",
+              "tags": [
+                "Coffee",
+                "Open late"
+              ],
+              "lat": 12.9299047,
+              "lon": 77.5824145
+            },
+            {
+              "name": "Ground Up Coffee & Roastery",
+              "subtitle": "Jayanagar",
+              "category": "Cafe",
+              "tagline": "Coffee-first, no-frills, properly good.",
+              "tags": [
+                "Coffee",
+                "Roastery"
+              ],
+              "lat": 12.9378405,
+              "lon": 77.5852908
+            },
+            {
+              "name": "Kahale",
+              "subtitle": "Jayanagar",
+              "category": "Cafe",
+              "tagline": "Rustic Bangalore-house charm, filter kaapi, and pups.",
+              "tags": [
+                "Filter coffee",
+                "Pet-friendly"
+              ],
+              "lat": 12.924473,
+              "lon": 77.5850717
+            },
+            {
+              "name": "Junys Bakehouse",
+              "subtitle": "Jayanagar",
+              "category": "Bakery",
+              "tagline": "Bakes that vanish before you sit down.",
+              "tags": [
+                "Bakes"
+              ],
+              "lat": 12.9255232,
+              "lon": 77.5952191
+            },
+            {
+              "name": "Mustard Bakehouse",
+              "subtitle": "Jayanagar",
+              "category": "Bakery",
+              "tagline": "Casual bakes and easy plates done right.",
+              "tags": [
+                "Bakes"
+              ],
+              "lat": 12.9249086,
+              "lon": 77.5839223
+            },
+            {
+              "name": "Isobel",
+              "subtitle": "2nd Block",
+              "category": "Cafe",
+              "tagline": "Aesthetic to the last corner — built for the camera.",
+              "tags": [
+                "Aesthetic",
+                "Coffee"
+              ],
+              "lat": 12.9395026,
+              "lon": 77.5846124
+            }
+          ]
+        },
+        {
           "name": "JP Nagar",
           "places": [
             {
@@ -846,6 +1064,41 @@
               ],
               "lat": 12.906136,
               "lon": 77.5905005
+            },
+            {
+              "name": "The Pump House",
+              "subtitle": "JP Nagar 1st Phase",
+              "category": "Brewery",
+              "tagline": "OG JP Nagar brewpub — good beer, better Indian plates.",
+              "tags": [
+                "Beer",
+                "Indian"
+              ],
+              "lat": 12.906626,
+              "lon": 77.582085
+            },
+            {
+              "name": "Ee Kavii Kafe",
+              "subtitle": "JP Nagar 5th Phase",
+              "category": "Cafe",
+              "tagline": "Terrace light, good coffee, a book you'll pretend to read.",
+              "tags": [
+                "Coffee",
+                "Terrace"
+              ],
+              "lat": 12.9060909,
+              "lon": 77.5891284
+            },
+            {
+              "name": "The Payanaa",
+              "subtitle": "JP Nagar",
+              "category": "Cafe",
+              "tagline": "Soulful food in corners built for slow afternoons.",
+              "tags": [
+                "Cafe"
+              ],
+              "lat": 12.9051934,
+              "lon": 77.5856409
             }
           ]
         },
@@ -872,6 +1125,431 @@
               "category": "Park",
               "lat": 13.0008,
               "lon": 77.5743
+            }
+          ]
+        },
+        {
+          "name": "Bellandur",
+          "places": [
+            {
+              "name": "The Kind Roastery & Brew Room",
+              "subtitle": "Bellandur",
+              "category": "Cafe",
+              "tagline": "Zen vibes and some of Bangalore's best coffee.",
+              "tags": [
+                "Coffee",
+                "Roastery"
+              ],
+              "lat": 12.9200405,
+              "lon": 77.6847654
+            },
+            {
+              "name": "Bellandur Social",
+              "subtitle": "Bellandur",
+              "category": "Restaurant",
+              "tagline": "Multi-level, dome-topped, buzzing till late.",
+              "tags": [
+                "Bar",
+                "Buzzy"
+              ],
+              "lat": 12.9378123,
+              "lon": 77.6947188
+            },
+            {
+              "name": "BLR Brewing Co.",
+              "subtitle": "RMZ Ecoworld",
+              "category": "Brewery",
+              "tagline": "Solid brews and multi-cuisine in the Ecoworld crowd.",
+              "tags": [
+                "Beer"
+              ],
+              "lat": 12.9201639,
+              "lon": 77.6849324
+            },
+            {
+              "name": "Biergarten",
+              "subtitle": "Bellandur",
+              "category": "Brewery",
+              "tagline": "Dependable beer and food, garden style.",
+              "tags": [
+                "Beer"
+              ],
+              "lat": 12.9297508,
+              "lon": 77.6854811
+            },
+            {
+              "name": "Nom Nom Asian Bar & Eatery",
+              "subtitle": "Bellandur",
+              "category": "Restaurant",
+              "tagline": "Sushi and dim sum when the craving hits.",
+              "tags": [
+                "Asian",
+                "Sushi"
+              ],
+              "lat": 12.9208418,
+              "lon": 77.6859067
+            }
+          ]
+        },
+        {
+          "name": "Whitefield",
+          "places": [
+            {
+              "name": "Windmills Craftworks",
+              "subtitle": "Whitefield",
+              "category": "Brewery",
+              "tagline": "Craft beer, live jazz — the Whitefield classic.",
+              "tags": [
+                "Beer",
+                "Live music"
+              ],
+              "lat": 12.9825325,
+              "lon": 77.7217732
+            },
+            {
+              "name": "Oota Bangalore",
+              "subtitle": "ITPL Main Rd · 7th floor",
+              "category": "Restaurant",
+              "tagline": "Namma Karnataka thalis, seven floors up over Windmills.",
+              "tags": [
+                "Thali",
+                "Karnataka"
+              ],
+              "lat": 12.9825248,
+              "lon": 77.7217901
+            },
+            {
+              "name": "Biergarten",
+              "subtitle": "Whitefield",
+              "category": "Brewery",
+              "tagline": "Beer-garden vibes — pints under the open sky.",
+              "tags": [
+                "Beer"
+              ],
+              "lat": 12.9824424,
+              "lon": 77.7087349
+            },
+            {
+              "name": "Cafe Palmyra",
+              "subtitle": "Whitefield",
+              "category": "Restaurant",
+              "tagline": "Reliable plates in a setting worth lingering in.",
+              "tags": [
+                "Restaurant"
+              ],
+              "lat": 12.9643333,
+              "lon": 77.7395562
+            },
+            {
+              "name": "LYFE Farm to Fork",
+              "subtitle": "Whitefield",
+              "category": "Cafe",
+              "tagline": "Farm-to-fork plates for a guilt-free graze.",
+              "tags": [
+                "Healthy",
+                "Farm-to-fork"
+              ],
+              "lat": 12.9571358,
+              "lon": 77.7407917
+            },
+            {
+              "name": "Paper & Pie",
+              "subtitle": "Whitefield",
+              "category": "Cafe",
+              "tagline": "The Whitefield outpost of the coffee-date favourite.",
+              "tags": [
+                "Coffee",
+                "Work-friendly"
+              ],
+              "lat": 12.9663414,
+              "lon": 77.7333677
+            }
+          ]
+        },
+        {
+          "name": "MG Road",
+          "places": [
+            {
+              "name": "Hard Rock Cafe",
+              "subtitle": "MG Road",
+              "category": "Restaurant",
+              "tagline": "Iconic and loud — burgers with a side of live music.",
+              "tags": [
+                "American",
+                "Live music"
+              ],
+              "lat": 12.9759067,
+              "lon": 77.602415
+            },
+            {
+              "name": "Lupa",
+              "subtitle": "MG Road",
+              "category": "Restaurant",
+              "tagline": "Fine-dining Italian with rooftop swagger.",
+              "tags": [
+                "Italian"
+              ],
+              "lat": 12.9755984,
+              "lon": 77.6045793
+            },
+            {
+              "name": "Yauatcha",
+              "subtitle": "MG Road",
+              "category": "Restaurant",
+              "tagline": "Premium dim sum worth the splurge.",
+              "tags": [
+                "Dim sum"
+              ],
+              "lat": 12.9732928,
+              "lon": 77.6203649
+            },
+            {
+              "name": "Matteo Coffea",
+              "subtitle": "MG Road",
+              "category": "Cafe",
+              "tagline": "Central pit-stop for a proper cup.",
+              "tags": [
+                "Coffee"
+              ],
+              "lat": 12.9742758,
+              "lon": 77.6070241
+            },
+            {
+              "name": "Trippy Goat Cafe",
+              "subtitle": "MG Road",
+              "category": "Cafe",
+              "tagline": "Casual bites and easy drinks off MG Road.",
+              "tags": [
+                "Cafe",
+                "Wine"
+              ],
+              "lat": 12.972712,
+              "lon": 77.614782
+            }
+          ]
+        },
+        {
+          "name": "Kalyan Nagar",
+          "places": [
+            {
+              "name": "Biergarten",
+              "subtitle": "Manyata Tech Park",
+              "category": "Brewery",
+              "tagline": "Tech-park beer o'clock — Chinese, European, pints.",
+              "tags": [
+                "Beer"
+              ],
+              "lat": 13.0421682,
+              "lon": 77.6198606
+            },
+            {
+              "name": "Brik Oven",
+              "subtitle": "Manyata",
+              "category": "Restaurant",
+              "tagline": "Wood-fired pizzas worth the Manyata detour.",
+              "tags": [
+                "Pizza"
+              ],
+              "lat": 13.041593,
+              "lon": 77.6198606
+            },
+            {
+              "name": "Fuku",
+              "subtitle": "Kalyan Nagar",
+              "category": "Cafe",
+              "tagline": "Coffee-commune buzz in a cosy corner.",
+              "tags": [
+                "Coffee"
+              ],
+              "lat": 13.021972,
+              "lon": 77.6378266
+            },
+            {
+              "name": "Story Coffee House",
+              "subtitle": "Kalyan Nagar",
+              "category": "Cafe",
+              "tagline": "Easy coffee and casual bites with a story.",
+              "tags": [
+                "Coffee"
+              ],
+              "lat": 13.0238678,
+              "lon": 77.6362421
+            }
+          ]
+        },
+        {
+          "name": "BEL Road",
+          "places": [
+            {
+              "name": "Truffles",
+              "subtitle": "Sanjaynagar",
+              "category": "Restaurant",
+              "tagline": "The Sanjaynagar staple — burgers that never miss.",
+              "tags": [
+                "Burgers"
+              ],
+              "lat": 13.0282495,
+              "lon": 77.5731282
+            },
+            {
+              "name": "Nirantaram Coffee House",
+              "subtitle": "BEL Road",
+              "category": "Cafe",
+              "tagline": "Temple-clean tiffin — idlis, dosas, pongal done right.",
+              "tags": [
+                "South Indian",
+                "Tiffin"
+              ],
+              "lat": 13.0278771,
+              "lon": 77.5735034
+            },
+            {
+              "name": "Chin Lung Resto Bar",
+              "subtitle": "BEL Road",
+              "category": "Restaurant",
+              "tagline": "Old-school Chinese and bar nights.",
+              "tags": [
+                "Chinese",
+                "Bar"
+              ],
+              "lat": 13.0299662,
+              "lon": 77.570553
+            },
+            {
+              "name": "Corner House",
+              "subtitle": "Ashwath Nagar",
+              "category": "Cafe",
+              "tagline": "Death by Chocolate. Need we say more?",
+              "tags": [
+                "Ice cream",
+                "Dessert"
+              ],
+              "lat": 13.0279596,
+              "lon": 77.5729169
+            }
+          ]
+        },
+        {
+          "name": "Sahakar Nagar",
+          "places": [
+            {
+              "name": "RASA",
+              "subtitle": "Sahakar Nagar",
+              "category": "Restaurant",
+              "tagline": "Contemporary Andhra — fresh, fiery, buzzing.",
+              "tags": [
+                "Andhra",
+                "Indian"
+              ],
+              "lat": 13.063552,
+              "lon": 77.5912939
+            },
+            {
+              "name": "Fika",
+              "subtitle": "Sahakar Nagar",
+              "category": "Cafe",
+              "tagline": "Cosy corner for coffee and a sandwich.",
+              "tags": [
+                "Coffee"
+              ],
+              "lat": 13.060242,
+              "lon": 77.5877605
+            },
+            {
+              "name": "Punjab Grill",
+              "subtitle": "Mall of Asia",
+              "category": "Restaurant",
+              "tagline": "Reliable North Indian at the Phoenix mall.",
+              "tags": [
+                "North Indian"
+              ],
+              "lat": 13.0707283,
+              "lon": 77.5900851
+            },
+            {
+              "name": "YouMee",
+              "subtitle": "Mall of Asia",
+              "category": "Restaurant",
+              "tagline": "Sushi and dim sum for the mall-day craving.",
+              "tags": [
+                "Asian",
+                "Sushi"
+              ],
+              "lat": 13.0709325,
+              "lon": 77.5903858
+            }
+          ]
+        },
+        {
+          "name": "RR Nagar",
+          "places": [
+            {
+              "name": "Myka Cafe & Boutique",
+              "subtitle": "RR Nagar",
+              "category": "Cafe",
+              "tagline": "Work-and-hangout aesthetic — ragi pizza gets the love.",
+              "tags": [
+                "Cafe",
+                "Work-friendly"
+              ],
+              "lat": 12.9265341,
+              "lon": 77.5133333
+            },
+            {
+              "name": "Full Circle",
+              "subtitle": "RR Nagar",
+              "category": "Brewery",
+              "tagline": "Garden taproom wrapped in green — calm with a pint.",
+              "tags": [
+                "Beer",
+                "Garden"
+              ],
+              "lat": 12.9087369,
+              "lon": 77.5121989
+            },
+            {
+              "name": "Glens Bakehouse",
+              "subtitle": "RR Nagar",
+              "category": "Bakery",
+              "tagline": "Reliable bakes and cafe comfort.",
+              "tags": [
+                "Bakes"
+              ],
+              "lat": 12.9139077,
+              "lon": 77.5268405
+            },
+            {
+              "name": "Stories Bar & Kitchen",
+              "subtitle": "RR Nagar",
+              "category": "Restaurant",
+              "tagline": "Easy bar nights on the west side.",
+              "tags": [
+                "Bar"
+              ],
+              "lat": 12.9046033,
+              "lon": 77.5268108
+            },
+            {
+              "name": "Cafe Down The Alley",
+              "subtitle": "RR Nagar",
+              "category": "Cafe",
+              "tagline": "Tucked-away local find worth the hunt.",
+              "tags": [
+                "Cafe"
+              ],
+              "lat": 12.9299152,
+              "lon": 77.5213644
+            },
+            {
+              "name": "Herbs n Olives",
+              "subtitle": "RR Nagar",
+              "category": "Restaurant",
+              "tagline": "Mediterranean-ish plates, neighbourhood favourite.",
+              "tags": [
+                "Mediterranean"
+              ],
+              "lat": 12.9236192,
+              "lon": 77.5220113
             }
           ]
         }
