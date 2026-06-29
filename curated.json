@@ -500,6 +500,29 @@
           "title": "Dosa to die for",
           "places": [
             {
+              "name": "Vidyarthi Bhavan",
+              "subtitle": "Gandhi Bazaar",
+              "category": "Restaurant",
+              "tagline": "The masala dosa that built a cult. Worth the Gandhi Bazaar queue.",
+              "tags": [
+                "Masala dosa",
+                "Legend"
+              ],
+              "lat": 12.9426,
+              "lon": 77.5722
+            },
+            {
+              "name": "CTR (Central Tiffin Room)",
+              "subtitle": "Malleshwaram",
+              "category": "Restaurant",
+              "tagline": "Benne masala dosa — crisp, buttery, legendary since the 1920s.",
+              "tags": [
+                "Benne dosa"
+              ],
+              "lat": 13.0036,
+              "lon": 77.5719
+            },
+            {
               "name": "Taaza Thindi",
               "subtitle": "Jayanagar 4th Block",
               "category": "Restaurant",
@@ -510,6 +533,42 @@
               ],
               "lat": 12.923004,
               "lon": 77.593338
+            },
+            {
+              "name": "Brahmins' Coffee Bar",
+              "subtitle": "Basavanagudi",
+              "category": "Cafe",
+              "tagline": "Idli-vada-dosa done to perfection — then the filter coffee.",
+              "tags": [
+                "Dosa",
+                "Filter coffee"
+              ],
+              "lat": 12.941,
+              "lon": 77.5723
+            },
+            {
+              "name": "Babai Tiffins",
+              "subtitle": "HSR Layout",
+              "category": "Restaurant",
+              "tagline": "Andhra tiffins done fast and proper — the dosa hits.",
+              "tags": [
+                "Andhra",
+                "Tiffin"
+              ],
+              "lat": 12.918867,
+              "lon": 77.645991
+            },
+            {
+              "name": "Nirantaram Coffee House",
+              "subtitle": "BEL Road",
+              "category": "Cafe",
+              "tagline": "Temple-clean tiffin — dosas you'll come back for.",
+              "tags": [
+                "South Indian",
+                "Tiffin"
+              ],
+              "lat": 13.0278771,
+              "lon": 77.5735034
             }
           ]
         }
