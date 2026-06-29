@@ -347,6 +347,30 @@
               ],
               "lat": 12.9223,
               "lon": 77.591
+            },
+            {
+              "name": "Lakeview Milk Bar",
+              "subtitle": "MG Road",
+              "category": "Cafe",
+              "tagline": "24-hour MG Road classic — milkshakes and snacks at any hour.",
+              "tags": [
+                "24h",
+                "Milkshakes"
+              ],
+              "lat": 12.9759697,
+              "lon": 77.6037239
+            },
+            {
+              "name": "The Rameshwaram Cafe",
+              "subtitle": "Indiranagar",
+              "category": "Restaurant",
+              "tagline": "Lightning-fast dosas and filter coffee, late into the night.",
+              "tags": [
+                "Dosa",
+                "Filter coffee"
+              ],
+              "lat": 12.9817985,
+              "lon": 77.6409705
             }
           ]
         },
