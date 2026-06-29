@@ -347,40 +347,6 @@
               ],
               "lat": 12.9223,
               "lon": 77.591
-            },
-            {
-              "name": "CTR (Central Tiffin Room)",
-              "subtitle": "Malleshwaram",
-              "category": "Restaurant",
-              "tagline": "Benne masala dosa worth queueing",
-              "tags": [
-                "Hidden gem",
-                "Good staff"
-              ],
-              "lat": 13.0036,
-              "lon": 77.5719
-            },
-            {
-              "name": "Brahmins' Coffee Bar",
-              "subtitle": "Basavanagudi",
-              "category": "Cafe",
-              "tagline": "Idli + chutney, queue starts at 7am",
-              "tags": [
-                "Great coffee"
-              ],
-              "lat": 12.941,
-              "lon": 77.5723
-            },
-            {
-              "name": "Vidyarthi Bhavan",
-              "subtitle": "Gandhi Bazaar",
-              "category": "Restaurant",
-              "tagline": "Crispy benne dosa institution",
-              "tags": [
-                "Hidden gem"
-              ],
-              "lat": 12.9426,
-              "lon": 77.5722
             }
           ]
         },
