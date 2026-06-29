@@ -432,6 +432,30 @@
               ],
               "lat": 12.9735,
               "lon": 77.6358
+            },
+            {
+              "name": "Bar Double",
+              "subtitle": "Vasanth Nagar",
+              "category": "Bar",
+              "tagline": "Cocktails and easy nights in the heart of town.",
+              "tags": [
+                "Cocktails",
+                "Bar"
+              ],
+              "lat": 12.95681,
+              "lon": 77.592323
+            },
+            {
+              "name": "URU",
+              "subtitle": "Bannerghatta Road",
+              "category": "Brewery",
+              "tagline": "Puts the URU in Bengal-URU. Beer, pizza, repeat.",
+              "tags": [
+                "Brewpark",
+                "Beer"
+              ],
+              "lat": 12.9057288,
+              "lon": 77.6009323
             }
           ]
         },
@@ -493,6 +517,18 @@
               ],
               "lat": 12.934,
               "lon": 77.6189
+            },
+            {
+              "name": "Ink & Oak",
+              "subtitle": "HSR Layout",
+              "category": "Books",
+              "tagline": "Cafe plus bookstore — you'll fall in love (again).",
+              "tags": [
+                "Books",
+                "Coffee"
+              ],
+              "lat": 12.9140372,
+              "lon": 77.6422501
             }
           ]
         },
