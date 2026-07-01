@@ -5547,6 +5547,204 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Goa",
+      "aliases": [
+        "Panjim",
+        "Panaji",
+        "North Goa",
+        "South Goa",
+        "Bardez",
+        "Salcete",
+        "Mapusa",
+        "Margao",
+        "Vasco da Gama",
+        "Calangute",
+        "Anjuna",
+        "Assagao",
+        "Siolim",
+        "Saligao",
+        "Majorda",
+        "Colva",
+        "Benaulim"
+      ],
+      "updated": "2026-07-01",
+      "sections": [
+        {
+          "title": "Alisha's Top Places in Goa",
+          "places": [
+            {
+              "name": "The Farmhouse Restaurant",
+              "subtitle": "Assagao",
+              "category": "Restaurant",
+              "tagline": "Farm-to-table under the trees, North Goa's slow-food darling",
+              "tags": [
+                "Farm-to-table",
+                "Garden dining"
+              ],
+              "lat": 15.244143,
+              "lon": 73.944139
+            },
+            {
+              "name": "Bonita",
+              "subtitle": "Saligao",
+              "category": "Bar",
+              "tagline": "Sonarbhat's easy-going bar, cocktails and good chatter",
+              "tags": [
+                "Cocktails",
+                "Chill"
+              ],
+              "lat": 15.336447,
+              "lon": 73.896902
+            },
+            {
+              "name": "Izumi Assagao",
+              "subtitle": "Assagao",
+              "category": "Restaurant",
+              "tagline": "Japanese done properly, tucked into the Assagao greens",
+              "tags": [
+                "Japanese",
+                "Sushi"
+              ],
+              "lat": 15.597601,
+              "lon": 73.787072
+            },
+            {
+              "name": "The Bayou",
+              "subtitle": "Siolim",
+              "category": "Restaurant",
+              "tagline": "Cajun-Creole and strong cocktails, New Orleans energy",
+              "tags": [
+                "Cajun",
+                "Cocktails"
+              ],
+              "lat": 15.493269,
+              "lon": 73.819237
+            },
+            {
+              "name": "Copita - Riverside Bistro & Bar",
+              "subtitle": "Saligao",
+              "category": "Restaurant",
+              "tagline": "Riverside tables, wine list worth lingering over",
+              "tags": [
+                "Riverside",
+                "Wine bar"
+              ],
+              "lat": 15.499955,
+              "lon": 73.883757
+            },
+            {
+              "name": "Mon Petit Frère",
+              "subtitle": "Majorda",
+              "category": "Restaurant",
+              "tagline": "South Goa's little slice of France, unfussy bistro plates",
+              "tags": [
+                "French",
+                "Bistro"
+              ],
+              "lat": 15.27886,
+              "lon": 73.923403
+            },
+            {
+              "name": "Sea Shells by James",
+              "subtitle": "Calangute",
+              "category": "Restaurant",
+              "tagline": "No-frills seafood shack, the catch does the talking",
+              "tags": [
+                "Seafood",
+                "Beachside"
+              ],
+              "lat": 15.441717,
+              "lon": 73.860289
+            },
+            {
+              "name": "Qi Pan Asian",
+              "subtitle": "Anjuna",
+              "category": "Restaurant",
+              "tagline": "Pan-Asian plates for a North Goa night out",
+              "tags": [
+                "Pan-Asian",
+                "Dinner"
+              ],
+              "lat": 15.470833,
+              "lon": 73.827252
+            },
+            {
+              "name": "Goodfellas Goa",
+              "subtitle": "Benaulim",
+              "category": "Restaurant",
+              "tagline": "Italian classics, South Goa's reliable date-night spot",
+              "tags": [
+                "Italian",
+                "Date night"
+              ],
+              "lat": 15.260288,
+              "lon": 73.927358
+            },
+            {
+              "name": "The Origin Goa",
+              "subtitle": "Majorda",
+              "category": "Restaurant",
+              "tagline": "Continental-Goan fusion, quiet Majorda favourite",
+              "tags": [
+                "Fusion",
+                "Hidden gem"
+              ],
+              "lat": 15.294612,
+              "lon": 73.93492
+            },
+            {
+              "name": "Leda Balcao Goan Seafood Restaurant",
+              "subtitle": "Betalbatim",
+              "category": "Restaurant",
+              "tagline": "Goan seafood the way locals actually eat it",
+              "tags": [
+                "Goan",
+                "Seafood"
+              ],
+              "lat": 15.245648,
+              "lon": 73.930685
+            },
+            {
+              "name": "Cota Cozinha",
+              "subtitle": "Majorda",
+              "category": "Restaurant",
+              "tagline": "Home-style Goan cooking, family-run and unhurried",
+              "tags": [
+                "Goan",
+                "Home-style"
+              ],
+              "lat": 15.301189,
+              "lon": 73.925696
+            },
+            {
+              "name": "Pepper's Gourmet Cuisine",
+              "subtitle": "Colva",
+              "category": "Restaurant",
+              "tagline": "Gourmet plates without the South Goa fuss",
+              "tags": [
+                "Gourmet",
+                "Continental"
+              ],
+              "lat": 15.273038,
+              "lon": 73.964605
+            },
+            {
+              "name": "Da Tita by Magic Italy",
+              "subtitle": "Majorda",
+              "category": "Restaurant",
+              "tagline": "20-year-old Palolem pizzeria, reborn in Majorda",
+              "tags": [
+                "Italian",
+                "Pizza"
+              ],
+              "lat": 15.3138,
+              "lon": 73.9219
+            }
+          ]
+        }
+      ]
     }
   ]
 }
