@@ -614,6 +614,131 @@
       ],
       "areas": [
         {
+          "name": "Work Cafés",
+          "places": [
+            {
+              "name": "Maverick & Farmer",
+              "subtitle": "Indiranagar",
+              "category": "Cafe",
+              "tagline": "Specialty espresso bar, brewers' favourite",
+              "tags": [
+                "Great coffee",
+                "Best to work"
+              ],
+              "lat": 12.972,
+              "lon": 77.6398
+            },
+            {
+              "name": "Beanlore Coffee Roasters",
+              "subtitle": "Sector 4",
+              "category": "Cafe",
+              "tagline": "Great coffee and a laptop-friendly hum.",
+              "tags": [
+                "Coffee",
+                "Work-friendly"
+              ],
+              "lat": 12.9123548,
+              "lon": 77.6417639
+            },
+            {
+              "name": "Paper & Pie",
+              "subtitle": "Thippasandra",
+              "category": "Cafe",
+              "tagline": "Coffee-date, deep-work, or just-chill — it does all three.",
+              "tags": [
+                "Coffee",
+                "Work-friendly"
+              ],
+              "lat": 12.9810313,
+              "lon": 77.6409712
+            },
+            {
+              "name": "Myka Cafe & Boutique",
+              "subtitle": "RR Nagar",
+              "category": "Cafe",
+              "tagline": "Work-and-hangout aesthetic — ragi pizza gets the love.",
+              "tags": [
+                "Cafe",
+                "Work-friendly"
+              ],
+              "lat": 12.9265341,
+              "lon": 77.5133333
+            },
+            {
+              "name": "Araku Coffee",
+              "subtitle": "12th Main",
+              "category": "Cafe",
+              "tagline": "Specialty-coffee royalty (just don't expect to spot Kunal).",
+              "tags": [
+                "Coffee",
+                "Roastery"
+              ],
+              "lat": 12.9699145,
+              "lon": 77.639208
+            },
+            {
+              "name": "DYU Art Cafe",
+              "subtitle": "8th Block",
+              "category": "Cafe",
+              "tagline": "Art on the walls, calm in the courtyard.",
+              "tags": [
+                "Coffee",
+                "Aesthetic"
+              ],
+              "lat": 12.9371896,
+              "lon": 77.6176798
+            },
+            {
+              "name": "The Kind Roastery & Brew Room",
+              "subtitle": "Bellandur",
+              "category": "Cafe",
+              "tagline": "Zen vibes and some of Bangalore's best coffee.",
+              "tags": [
+                "Coffee",
+                "Roastery"
+              ],
+              "lat": 12.9200405,
+              "lon": 77.6847654
+            },
+            {
+              "name": "Subko Ajji House",
+              "subtitle": "Shanti Nagar",
+              "category": "Cafe",
+              "tagline": "Red oxide floors, old-Bengaluru nostalgia, and excellent brews",
+              "tags": [
+                "Aesthetic",
+                "Great coffee"
+              ],
+              "lat": 12.9628,
+              "lon": 77.5884
+            },
+            {
+              "name": "Ground Up Coffee & Roastery",
+              "subtitle": "Jayanagar",
+              "category": "Cafe",
+              "tagline": "Coffee-first, no-frills, properly good.",
+              "tags": [
+                "Coffee",
+                "Roastery"
+              ],
+              "lat": 12.9378405,
+              "lon": 77.5852908
+            },
+            {
+              "name": "Nerlu Cafe",
+              "subtitle": "Cunningham Road",
+              "category": "Cafe",
+              "tagline": "Indian single-origin focus, rotating pour-over discovery menus",
+              "tags": [
+                "Great coffee",
+                "Aesthetic"
+              ],
+              "lat": 12.9871,
+              "lon": 77.5889
+            }
+          ]
+        },
+        {
           "name": "Indiranagar",
           "places": [
             {
